@@ -23,23 +23,29 @@
       left: 50px;
       right: 50px;
       overflow: none;
+      
     }
 
 
     .done {
       width: 0px;
       height: 0px;
-      border: solid 5px cyan;
+      border: solid 5px ;
       position: absolute;
+    }
+
+    p {
+      display: inline-block;
     }
   </style>
 <body>
   <p class="screenOffs"></p>
+  <input class="eventInput" placeholder="speed of disappearing tail" type="text">
   <div class="container">
     <div class="waterParticle"></div>
   </div>
   <script>
-
+    const eventInput = document.querySelector('.eventInput')
     const parentDiv = document.querySelector('.container')
     let newChar = ""
     let result = 0;
@@ -47,6 +53,11 @@
 
     console.log(window.innerHeight);
     let number = 0;
+    let rgb = 0;
+    let color = 0;
+    let r = 0;
+    let g = 0;
+    let b = 0;
     function createWaterDrop(mouseX, mouseY, speed) {
       let i = 0;
       const div = document.createElement('div');
@@ -55,6 +66,8 @@
       parentDiv.appendChild(div);
       div.style.left = (`${mouseX}px`);
       div.style.top = (`${mouseY}px`);
+      div.style.borderColor = `#${color++}`;
+      console.log(`${color}`)
 
       let goingLower = 0
       const sexyInterval = setInterval(() => {
@@ -72,7 +85,7 @@
           parentDiv.removeChild(div);
           clearInterval(sexyInterval);
       }
-      }, 500);
+      }, eventInput.value);
 
       for (i = 0; i < 1; i++) {
         number++;
