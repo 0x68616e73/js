@@ -53,11 +53,7 @@
 
     console.log(window.innerHeight);
     let number = 0;
-    let rgb = 0;
-    let color = 0;
-    let r = 0;
-    let g = 0;
-    let b = 0;
+    let color = 400;
     function createWaterDrop(mouseX, mouseY, speed) {
       let i = 0;
       const div = document.createElement('div');
@@ -66,8 +62,7 @@
       parentDiv.appendChild(div);
       div.style.left = (`${mouseX}px`);
       div.style.top = (`${mouseY}px`);
-      div.style.borderColor = `#${color++}`;
-      console.log(`${color}`)
+      div.style.borderColor = `#${color < 10000 ? color++ : color = 400}`;
 
       let goingLower = 0
       const sexyInterval = setInterval(() => {
