@@ -1,0 +1,192 @@
+.buttonContainers {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.divider {
+  border: solid 1px #818181;
+  border-radius: 5px;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  text-align: center;
+}
+.buttonContainers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .firstRow {
+    display: flex;
+    flex-direction: row;
+  }
+  .secondRow {
+    display: flex;
+    flex-direction: row;
+  }
+}
+.firstButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+  label {
+    display: block;
+  }
+}
+.firstButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.secondButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+
+  label {
+    display: block;
+  }
+}
+.secondButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.thirdButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+  label {
+    display: block;
+  }
+}
+.thirdButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.fourthButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+
+  label {
+    display: block;
+  }
+}
+.fourthButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.fifthButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+
+  label {
+    display: block;
+  }
+}
+.fifthButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.sixthButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+
+  label {
+    display: block;
+  }
+}
+.sixthButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.eighthButton {
+  border: solid 1px #808080;
+  border-radius: 5px;
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: rgb(222, 230, 230);
+  label {
+    display: block;
+  }
+}
+.eighthButton:hover {
+  cursor: pointer;
+  * {
+  cursor: pointer;
+  }
+}
+
+.done {
+  background-color: #aca2a2;
+  pointer-events:none;
+}
+.done:hover {
+  pointer-events:none;
+  cursor: not-allowed;
+  * {
+    pointer-events:none;
+    cursor: not-allowed;
+  }
+}

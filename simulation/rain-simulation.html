@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+  <style>
+    body {
+      margin: 0;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    .container {
+      border: solid 1px gray;
+      position: fixed;
+      top: 50px;
+      bottom: 50px;
+      left: 50px;
+      right: 50px;
+      overflow: hidden;
+    }
+
+    p {
+      display: inline-block;
+    }
+    .done {
+      width: 0px;
+      height: 0px;
+      border: solid 5px cyan;
+      position: absolute;
+      content: url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200);
+
+    .eventInput {
+      width: 40px;
+      border: solid 1px;
+    }
+    }
+  </style>
+<body>
+  <p class="screenOffs"></p>
+  <input class="eventInput" placeholder="mousemove or click" type="text">
+
+  <div class="container">
+    <div class="waterParticle"></div>
+  </div>
+  <script>
+    const parentDiv = document.querySelector('.container')
+    const eventInput = document.querySelector('.eventInput')
+    let newChar = ""
+    let result = 0;
+    
+
+    console.log(window.innerHeight);
+    let number = 0;
+    function createWaterDrop(mouseX, mouseY, speed) {
+      let i = 0;
+      const div = document.createElement('div');
+      div.classList.add(`waterParticle${number}`);
+      div.classList.add(`done`);
+      parentDiv.appendChild(div);
+      div.style.left = (`${mouseX}px`);
+      div.style.top = (`${mouseY}px`);
+
+      let goingLower = 0
+      const sexyInterval = setInterval(() => {
+        let result = "";
+        for (let i = 0; i < (div.style.top.length - 2); i++) {
+          result += div.style.top[i];
+          result = Number(result);
+        }
+        if (result < window.innerHeight+10) {
+          let goingLower = mouseY+=speed;
+          div.style.top = (`${goingLower}px`);;
+        } else {
+          parentDiv.removeChild(div);
+          clearInterval(sexyInterval);
+      }
+      }, 200);
+
+      for (i = 0; i < 1; i++) {
+        number++;
+      }
+    }
+
+    setInterval(() => {
+      parentDiv.addEventListener(`${eventInput.value}`, event => {
+      let mouseX = event.pageX - 50;
+      let mouseY = event.pageY - 50;
+      document.querySelector('.screenOffs').innerHTML = `
+      MouseX = ${mouseX}
+      MouseY = ${mouseY}
+      WindowOffset = ${window.screenLeft}
+      WindowOffset = ${window.innerHeight}
+      `
+      
+      
+      createWaterDrop(mouseX, mouseY, 20);
+      
+    })
+    }, 5000);  
+    
+  </script>
+</body>
+</html>
