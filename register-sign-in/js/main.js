@@ -7,6 +7,9 @@ let inputPassword = document.getElementById('passwordText');
 let textSendInput = document.getElementById('textSend')
 let commentArea = document.querySelector('.commentsArea')
 
+commentArea.innerHTML = localStorage.getItem('comments');
+
+
 let users = [
   {
     username: "orxan", password: "1234"
