@@ -45,7 +45,7 @@ function addUser() {
       empty=true;
     }
   }
-  if(!equals && !empty) {
+  if(!equals && !empty && pass.length>=8) {
     console.log(`Username: ${user}, Password: ${pass}`)
     users.push({ username: user, password: pass})
     localStorage.setItem('users', JSON.stringify(users));

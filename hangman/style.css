@@ -1,0 +1,64 @@
+* {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  border: solid;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  background: #CCDBF8;
+  align-items: center;
+}
+.balacaDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: auto;
+  input {
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px 10px 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0,0.15);
+  }
+  label {
+    color: black;
+    cursor: pointer;
+    padding-right: 3px;
+    box-shadow: 0 4px 2px -2px white;
+    font-size: 45px;
+    margin: 5px;
+  }
+  
+  
+}
+
+button {
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0,0.15);
+  font-size: 30px;
+}
+
+.letterContainer {
+  font-size: 45px;
+  width: 300px;
+  cursor: pointer;
+  label {
+    color: black;
+    cursor: pointer;
+    padding-right: 3px;
+    box-shadow: 0 4px 2px -2px white;
+  }
+}
