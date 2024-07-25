@@ -17,7 +17,7 @@ body {
   linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);;
 }
 .container {
-  display: none;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -117,7 +117,7 @@ body {
 }
 
 .commentContainer {
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -129,6 +129,11 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    label {
+      margin: 0px 5px;
+      font-size: 20px;
+      font-weight: 400;
+    }
 
   }
   .commentsArea {

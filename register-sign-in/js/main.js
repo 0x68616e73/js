@@ -41,7 +41,7 @@ function addUser() {
       equals = true;
       console.log('Username must be unique!')
     }
-    if (user === ''){
+    if (user === '' || pass === ''){
       empty=true;
     }
   }
