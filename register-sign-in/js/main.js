@@ -1,11 +1,22 @@
-let registerButton = document.querySelector('.registerButton');
-let loginButton = document.querySelector('.loginButton');
+const registerButton = document.querySelector('.registerButton');
+const loginButton = document.querySelector('.loginButton');
 
-let inputUsername = document.getElementById('usernameText');
-let inputPassword = document.getElementById('passwordText');
+const inputUsername = document.getElementById('usernameText');
+const inputPassword = document.getElementById('passwordText');
 
-let textSendInput = document.getElementById('textSend')
-let commentArea = document.querySelector('.commentsArea')
+const textSendInput = document.getElementById('textSend')
+const commentArea = document.querySelector('.commentsArea')
+
+const btnEl = document.querySelector(".btn");
+
+btnEl.addEventListener("mouseover", (event) => {
+  const x = event.pageX - btnEl.offsetLeft;
+  const y = event.pageY - btnEl.offsetTop;
+
+  btnEl.style.setProperty("--xPos", x + "px");
+  btnEl.style.setProperty("--yPos", y + "px");
+});
+
 
 commentArea.innerHTML = localStorage.getItem('comments');
 
@@ -65,6 +76,7 @@ function logIn() {
 function sendText() {
   commentArea.innerHTML += `<p><b>${inputUsername.value}</b> said: ${textSendInput.value}</p>`;
   localStorage.setItem('comments', commentArea.innerHTML);
+  textSendInput.value = '';
 }
 
 registerButton.addEventListener('click', addUser);
