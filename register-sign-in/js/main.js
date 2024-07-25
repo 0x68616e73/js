@@ -9,33 +9,33 @@ let commentArea = document.querySelector('.commentsArea')
 
 commentArea.innerHTML = localStorage.getItem('comments');
 
-
-let users = [
+let users = JSON.parse(localStorage.getItem('users')) || [
   {
     username: "orxan", password: "1234"
   },
   {
     username: "said", password: "1234"
   }
-]
+];
 
-users = JSON.parse(localStorage.getItem('users'));
 localStorage.setItem('users', JSON.stringify(users));
 
 function addUser() {
   let user = inputUsername.value;
   let pass = inputPassword.value;
   let equals = false;
+  let empty = false;
   for (let i = 0; i < users.length; i++) {
-    console.log(user,pass)
     if (user === users[i].username) {
       equals = true;
-      if (equals){
-        console.log('Username must be unique!')
-      }
+      console.log('Username must be unique!')
+    }
+    if (user === ''){
+      empty=true;
     }
   }
-  if(!equals) {
+  if(!equals && !empty) {
+    console.log(`Username: ${user}, Password: ${pass}`)
     users.push({ username: user, password: pass})
     localStorage.setItem('users', JSON.stringify(users));
     console.log('Username and Password, succesfully registered, now you can log in!', users)
@@ -46,22 +46,18 @@ function addUser() {
 function logIn() {
   let user = inputUsername.value;
   let pass = inputPassword.value;
-
   let equals = false;
   for (let i = 0; i < users.length; i++) {
     if (user === users[i].username && pass === users[i].password) {
       equals = true;
       if (equals){
-        console.log('sekis')
         document.querySelector('.container').style.display = 'none';
         document.querySelector('.commentContainer').style.display = 'flex';
       }
     }
   }
   if(!equals) {
-   
     console.log('Error, wrong password or username!', )
-
   }
 }
 
