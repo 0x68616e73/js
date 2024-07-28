@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metronome</title>
+</head>
+<body>
+  <div>
+    <h2>1. Metronome</h2>
+    <h2>2. C minor</h2>
+    <h2>3. 2 C minor</h2>
+    <input type="text" style="width: 10px;" id="listMetronome">
+    <input type="text" placeholder="Input metronome interval" id="metronomeInterval">
+    <button id="startButton">Start</button>
+  </div>
+  <script>
+    const listMetronome = document.getElementById('listMetronome');
+    const intervalEl = document.getElementById('metronomeInterval');
+    const startButton = document.getElementById('startButton');
+    const listValue = listMetronome.value = 1;
+    let count = 0;
+
+    function playSound(value) {
+      let audioName = `sounds/audio${value}.mp3`;
+      const audio = new Audio(audioName);
+      audio.play().catch(error => {
+        console.error("Error playing sound:", error);
+      });
+    };
+
+    let metronomeInterval;
+
+    startButton.addEventListener('click', () => {
+      if (!startButton.classList.contains('toggle')) {
+        console.log("Starting metronome");
+        startButton.classList.add('toggle');
+        startButton.innerText = 'Stop';
+        metronomeInterval = setInterval(() => {
+          playSound(listValue);
+        }, Number(intervalEl.value) || 400);
+      } else {
+        console.log("Stopping metronome");
+        startButton.innerText = 'Start';
+        startButton.classList.remove('toggle');
+        clearInterval(metronomeInterval);
+      }
+    });
+  </script>
+</body>
+</html>
