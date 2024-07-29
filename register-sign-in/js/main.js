@@ -1,11 +1,10 @@
 const registerButton = document.querySelector('.registerButton');
 const loginButton = document.querySelector('.loginButton');
+const logOutButton = document.querySelector('.logOutButton');
 
 const inputUsername = document.getElementById('usernameText');
 const inputPassword = document.getElementById('passwordText');
 
-const textSendInput = document.getElementById('textSend')
-const commentArea = document.querySelector('.commentsArea')
 
 const btnEl = document.querySelector(".btn");
 
@@ -18,7 +17,6 @@ btnEl.addEventListener("mouseover", (event) => {
 });
 
 
-commentArea.innerHTML = localStorage.getItem('comments');
 
 let users = JSON.parse(localStorage.getItem('users')) || [
   {
@@ -50,7 +48,6 @@ function addUser() {
     users.push({ username: user, password: pass})
     localStorage.setItem('users', JSON.stringify(users));
     console.log('Username and Password, succesfully registered, now you can log in!', users)
-
   }
 }
 
@@ -63,7 +60,7 @@ function logIn() {
       equals = true;
       if (equals){
         document.querySelector('.container').style.display = 'none';
-        document.querySelector('.commentContainer').style.display = 'flex';
+        document.querySelector('.outContainer').style.display = 'flex';
       }
     }
   }
@@ -73,17 +70,11 @@ function logIn() {
 }
 
 
-function sendText() {
-  commentArea.innerHTML += `<p><b>${inputUsername.value}</b> said: ${textSendInput.value}</p>`;
-  localStorage.setItem('comments', commentArea.innerHTML);
-  textSendInput.value = '';
-}
-
 registerButton.addEventListener('click', addUser);
 loginButton.addEventListener('click', logIn);
-
-textSendInput.addEventListener('keypress',(event) => {
-  if (event.key === "Enter") {
-    sendText();
-  }
+logOutButton.addEventListener('click', () => {
+  document.querySelector('.container').style.display = 'flex';
+  document.querySelector('.outContainer').style.display = 'none';
+  inputPassword.value = ''
+  inputUsername.value = ''
 });
