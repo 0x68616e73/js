@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "index": 1,
+      "question": "Əsas elementin hansı növü aşağdakı simvolla işarələnir?",
+      "options": [
+        "Turbin sərfölçəni",
+        "Elektromaqnit sərfölçən",
+        "Axıntı ağızlığı",
+        "Rotametr"
+      ],
+      "correct_answer": "Elektromaqnit sərfölçən"
+    },
+    {
+      "index": 2,
+      "question": "Çertyojun başlığı blokuna adətən nə daxildir?",
+      "options": [
+        "Çertyojun nömrəsi və düzəliş nömrəsi",
+        "Avadanlıq təfərrüatları və xüsusiyyətləri",
+        "İdarəetmə dövrəsi strategiyası",
+        "Texnoloji temperatur və təzyiq"
+      ],
+      "correct_answer": "Çertyojun nömrəsi və düzəliş nömrəsi"
+    },
+    {
+      "index": 3,
+      "question": "Aşağdakı simvol nəyi bildirir?\n                              \n                     ___|___\n                  -- |   A   |      \n                     |_____|",
+      "options": [
+        "Porşenli nasos",
+        "Mərkəzdənqaçma nasosu",
+        "Hava soyuducusu",
+        "Muhərrik"
+      ],
+      "correct_answer": "Porşenli nasos"
+    },
+    {
+      "index": 4,
+      "question": "Ümumi vüzual yoxlama üçün adətən hansı alətlər tələb olunur?",
+      "options": [
+        "Fənər, güzgü və mexaniki çıxarma aləti",
+        "Qaynaq avadanlıqları və qoruyucu vasitələr",
+        "Rentgen şüalandırıcı və MRT skaneri",
+        "Fırça və ölçmə lenti"
+      ],
+      "correct_answer": "Fənər, güzgü və mexaniki çıxarma aləti"
+    },
+    {
+      "index": 5,
+      "question": "Aşağdakılardan tipik vizual yoxlama avadanlığı DEYİL?",
+      "options": [
+        "İşıq sayğacı",
+        "Rəqəmsal ştangenpərgar",
+        "Qaynaq məşəli",
+        "Optik şüşə lövhə"
+      ],
+      "correct_answer": "Qaynaq məşəli"
+    },
+    {
+      "index": 6,
+      "question": "Qaynaqdan əvvəl yoxlama nə üçün vacibdir?",
+      "options": [
+        "Ərtaf mühitin çirklənməsini azaltmaq üçün",
+        "Qaynaqdan əvvəl qəbuledilməz şərtləri aşkarlamaq və düzəltmək üçün",
+        "Elektirik dövürlərini yoxlamaq üçün",
+        "Proqram təminatı yeniləmələrini doğrulamaq üçün"
+      ],
+      "correct_answer": "Qaynaqdan əvvəl qəbuledilməz şərtləri aşkarlamaq və düzəltmək üçün"
+    },
+    {
+      "index": 7,
+      "question": "Aşağdakı üsullardan hansı  nümunəgötürmə metodlarının umumi qurupuna AİD DEYİL?",
+      "options": [
+        "Bütün materialların yoxlanması",
+        "Təsadüfü nümunə götürmə",
+        "Statistik nümunəgötürmə",
+        "Mexaniki nümunəgötürmə"
+      ],
+      "correct_answer": "Mexaniki nümunəgötürmə"
+    },
+    {
+      "index": 8,
+      "question": "Təsadüfi şəkildə nümunə götürməsinin əsəs çatışmazlığ nədir?",
+      "options": [
+        "Vaxt aparır",
+        "Çoxlu miqdarda reagent tələb olunur",
+        "Tam elmi xarakter daşımır",
+        "Statistik ehtimallardan istifadə edir"
+      ],
+      "correct_answer": "Tam elmi xarakter daşımır"
+    },
+    {
+      "index": 9,
+      "question": "Nümunə götürmək üçün ən etibarlı əsas nədir?",
+      "options": [
+        "Təsadüfi seçmə",
+        "Bütün materialların yoxlanılması",
+        "Statistik etimallar",
+        "Qaydasız təsadüfi seçim"
+      ],
+      "correct_answer": "Statistik etimallar"
+    },
+    {
+      "index": 10,
+      "question": "İşə başlamazdan əvvəl sistemin batareyanın şarj edilməsi limitində istismara verilməli və istifadəyə hazır olan kommunal sistemlərə hansı nümunələr daxildir?",
+      "options": [
+        "Yanacaq qazı, azot və şirin su",
+        "Yüksək təzyiqli buxar və aşağı təzyiqli buxar",
+        "Oksigen və sıxılmış hava",
+        "Hidravlik yağ və soyutma mayesi"
+      ],
+      "correct_answer": "Yanacaq qazı, azot və şirin su"
+    },
+    {
+      "index": 11,
+      "question": "Aşağdakı sistemlərdən hansı tam işlək olmalı və neft-kimya zavodunu işə salmazdan əvvəl istismara vermədən əvvəl funksional sınaqlardan uğurla keçməlirdir?",
+      "options": [
+        "İstehsala nəzarət sistemləri",
+        "Fövqəlada söndürmə sistemləri",
+        "HVAC  sistemləri",
+        "Tullantıları idarəetmə sistemi"
+      ],
+      "correct_answer": "Fövqəlada söndürmə sistemləri"
+    },
+    {
+      "index": 12,
+      "question": "Zavodun tam gücü ilə işlməsi üçün təhlükəsiz və idarə olunan şəraitin təmin edilməsi",
+      "options": [
+        "Zavodun tam gücü ilə işlməsi üçün təhlükəsiz və idarə olunan şəraitin təmin edilməsi",
+        "Yuxardakiların hamısı",
+        "İstehsal gücünün artırlması",
+        "Fövqəladə hallar üçün təlimlərin keçirilməsi"
+      ],
+      "correct_answer": "Zavodun tam gücü ilə işlməsi üçün təhlükəsiz və idarə olunan şəraitin təmin edilməsi"
+    },
+    {
+      "index": 13,
+      "question": "Effektiv kilitləmə etiketləmə cihazı üçün aşağdakılardan hansı TƏLƏB OLUNMUR?",
+      "options": [
+        "Standartlaşdırılmış rəng və forma",
+        "Enerji mənbəyinə daim qoşulu olma",
+        "İşçinin indentifikasiyası",
+        "Ətraf mühit şəraitinə tab gətirmə bacarığı"
+      ],
+      "correct_answer": "İşçinin indentifikasiyası"
+    },
+    {
+      "index": 14,
+      "question": "Təmir işlərinə başlamazdan əvvəl izoliyasiyanın effektivliyini yoxlamağa kim cavabdehdir?",
+      "options": [
+        "İstehsal operatoru",
+        "Müvafiq səlahiyyətli şəxs",
+        "Zərərçəkmiş işçi",
+        "İş icazəsi ərzəsi"
+      ],
+      "correct_answer": "Müvafiq səlahiyyətli şəxs"
+    },
+    {
+      "index": 15,
+      "question": "İzolyasiya prosedurlarında kilidləmə əvəzinə etiketləmədən nə zaman istifədə oluna bilər?",
+      "options": [
+        "Hər zaman , çünki bu daha rahatdır",
+        "Avadanlıq işləmədikdə",
+        "Kilid tətbiq edilə bilməyəndə",
+        "Müntəzəm texniki xidmət zamanı"
+      ],
+      "correct_answer": "Avadanlıq işləmədikdə"
+    },
+    {
+      "index": 16,
+      "question": "Suyun təmizləyici çənə çox sürtlə daxil olması hansı nəticələrə səbəb ola bilər?",
+      "options": [
+        "Statik yük yığılması",
+        "Çəndə həddindən artıq təzyiq",
+        "Çənin həddindən artıq soyuması",
+        "Çənin kifayət qədər təmizlənməsi"
+      ],
+      "correct_answer": "Statik yük yığılması"
+    },
+    {
+      "index": 17,
+      "question": "Təmizləmə üçün buxardan istifadə ederkən maksimum hansı təzyiqdən istifadə edilməlidir?",
+      "options": [
+        "2.0 barg",
+        "1.5 barg",
+        "1.0 barg",
+        "0.5 barg"
+      ],
+      "correct_answer": "1.0 barg"
+    },
+    {
+      "index": 18,
+      "question": "Hansı təmizləmə üsulu ilə çəni su ilə dolduraraq havanı sıxışdırmaq üçün azot istifadə olunur?",
+      "options": [
+        "Seyrəltmə ilə təmizləmə",
+        "Təzyiqlə təmizləmə",
+        "Əvəzetmə ilə təmizləmə",
+        "Tezalışan qazla təmizləmə"
+      ],
+      "correct_answer": "Əvəzetmə ilə təmizləmə"
+    },
+    {
+      "index": 19,
+      "question": "Qazdan istifadə etmək əvəzinə hidravlik  təzyiq sınaqlarının aparılmasının əsas səbəbi nədir?",
+      "options": [
+        "Sudan istifadə etmək daha ucuz başa gəlir",
+        "Hidravlik sınaqlar daha surətlidir",
+        "Su sıxışdırılmır riski azaldır",
+        "Qaz sınaqlarına qanuni olaraq icazə verilmir"
+      ],
+      "correct_answer": "Su sıxışdırılmır riski azaldır"
+    },
+    {
+      "index": 20,
+      "question": "Müsbət izolyasiyanı çıxararkən sızma aşkalanarsa nə etmək lazımdır?",
+      "options": [
+        "Çıxarmaqa davam edib sonra sızıntını aradan qaldırmaq",
+        "Ventilyasiyanı və ya drenajı yenidən bağlamaq və işi dayandırmaq",
+        "Kiçik miqdarda olarsa sızmaya əhəmiyət verməmək",
+        "Rəhbəri məlumatlandırdıqdan sonra izolyasiya davam etmək"
+      ],
+      "correct_answer": "Ventilyasiyanı və ya drenajı yenidən bağlamaq və işi dayandırmaq"
+    },
+    {
+      "index": 21,
+      "question": "Əsaslı təmirin (TAM) əsas məqsədi nədir?",
+      "options": [
+        "Planlaşdırılmış təmir xərclərinizi artırmaq",
+        "İstehsal gücünü maksimuma çatdırmaq və avadanlıqların etibarlığını və təhlükəsizliyini təmin etmək",
+        "Köhnəlmiş avadanlıqların istismar müddətini uzatmaq",
+        "Zavodun dayanma müddətini artırmaq"
+      ],
+      "correct_answer": "İstehsal gücünü maksimuma çatdırmaq və avadanlıqların etibarlığını və təhlükəsizliyini təmin etmək"
+    },
+    {
+      "index": 22,
+      "question": "Qaz emalı zavodunda kondensat torunun əsas funksiyası nədir?",
+      "options": [
+        "H2S-ni turş qazdan çıxarmaq",
+        "Qazı kondensatdan ayırmaq və bufer həcmini təmin etmək",
+        "Satış qazını boru kəmərinin spesifikasiyasına uyğunlaşdırmaq üçün sıxmaq",
+        "LPG-ni propan və butana franksiyalaşdırmaq"
+      ],
+      "correct_answer": "Qazı kondensatdan ayırmaq və bufer həcmini təmin etmək"
+    },
+    {
+      "index": 23,
+      "question": "Kondesat torundan ayrıldıqdan sonra qaz hara gedir?",
+      "options": [
+        "Satış qazının sıxılması",
+        "Qaz desulfasiya qurğusu",
+        "LPG Dehidrasiya bölməsi",
+        "Turbo genişləndirici kompressor"
+      ],
+      "correct_answer": "Satış qazının sıxılması"
+    },
+    {
+      "index": 24,
+      "question": "LPG Merkaptan Təmizləmə paketində MEROX WS katalizatorunun məqsədi nədir?",
+      "options": [
+        "Kaustik məhluldan CO2 -ni çıxarmaq",
+        "Merkapitanları disulfidlərə çevirmək",
+        "Tükənmiş kaustik məhlulu regenrasiya etmek",
+        "Regenrasiya üçün kaustiki qızdırmaq"
+      ],
+      "correct_answer": "Merkapitanları disulfidlərə çevirmək"
+    },
+    {
+      "index": 25,
+      "question": "Kaustik soda sisteminin absorber qülləsində turşu qazları necə çıxarılır?",
+      "options": [
+        "Mexaniki filtirasiya yolu ilə",
+        "Kimyəvi absorbisiya yolu ilə",
+        "Elektroliz ilə",
+        "Buxarlanma ilə"
+      ],
+      "correct_answer": "Kimyəvi absorbisiya yolu ilə"
+    },
+    {
+      "index": 26,
+      "question": "Qaz emalı zavodlarında yanğınsondürmə su sisteminin məqsədi nədir?",
+      "options": [
+        "Texnoloji isitmə üçün buxarı yaratmaq",
+        "İçməli su ilə təmin etmək",
+        "Soyuducu qüllələrini su ilə təmin etmək",
+        "Yanğınlarla mübarizə aparmaq"
+      ],
+      "correct_answer": "Yanğınlarla mübarizə aparmaq"
+    },
+    {
+      "index": 27,
+      "question": "Yanğınsöndürmə su sisteminin hansı xüsusiyəti kiçik sızmalar zamanı davamlı təzyiqi təmin edir?",
+      "options": [
+        "Jockey pumps.",
+        "Sirkulyasiya pumps",
+        "Dizellə işləyən pumps",
+        "Ehtiyat çənlər"
+      ],
+      "correct_answer": "Jockey pumps."
+    },
+    {
+      "index": 28,
+      "question": "Qaz emalı sistemində DSH 400 qaz kəmərinin rolu nədir?",
+      "options": [
+        "Qazpaylayıcı stansiyalara təmizlənmiş təbii qazın verilməsi",
+        "Qaz qəbulu məntəqələrindən qazın nəqli",
+        "Yanacaq qazının inzibati binalara daşınması",
+        "Yuxardakılardan hec biri"
+      ],
+      "correct_answer": "Qazpaylayıcı stansiyalara təmizlənmiş təbii qazın verilməsi"
+    },
+    {
+      "index": 29,
+      "question": "K-3 stabilizatorunda doymuş absorbentdən hansı kimyəvi maddə ayrılır?",
+      "options": [
+        "Metan",
+        "Propan",
+        "Etan",
+        "Butan"
+      ],
+      "correct_answer": "Propan"
+    },
+    {
+      "index": 30,
+      "question": "Qaz emalı sistemində S-3 kondesator soyuducunun məqsədi nədir?",
+      "options": [
+        "Təmizlənmiş təbii qazı sərinlətmək",
+        "Uçucu qaz benzinini kondensasiya etmək",
+        "Sənaye suyunu qızdırmaq",
+        "Elektirik enerjisini yaratmaq"
+      ],
+      "correct_answer": "Uçucu qaz benzinini kondensasiya etmək"
+    }
+  ]
+}
