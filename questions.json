@@ -341,12 +341,12 @@
             "question": "Şəbəkəli funksiyanın arqumentin hansı aralıq qiymətində sıfra bərabər olan diskret funksiyadan istifadə edilir?",
             "options": [
                 "ωN=2ωmax.",
-                "kT ≪t≪=(k+1)T",
+                "kT .t.=(k+1)T",
                 "x(tk,qn)",
                 "tk=kT, k=0,1,2,...",
                 "ωN"
             ],
-            "correct_answer": "kT ≪t≪=(k+1)T"
+            "correct_answer": "kT .t.=(k+1)T"
         },
         {
             "index": 30,
@@ -547,10 +547,10 @@
                 "zamanın bütün gələcək anlarında",
                 "ədədi və ehtimal xarakteristikalarını əldə etmək",
                 "mürəkkəb siqnalları əldə etmək",
-                "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x≪a).",
+                "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x.a).",
                 "siqnalın kvantlanmasından sonra"
             ],
-            "correct_answer": "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x≪a)."
+            "correct_answer": "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x.a)."
         },
         {
             "index": 47,
@@ -2390,4 +2390,3 @@
         }
     ]
 }
-
