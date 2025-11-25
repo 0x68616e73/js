@@ -1,0 +1,2392 @@
+{
+    "questions": [
+        {
+            "index": 1,
+            "question": "Siqnalın ikilik koda çevirilməsi nə zaman yerinə yetirilir?",
+            "options": [
+                "mürəkkəb siqnalları əldə etmək",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "siqnalların modulyasiyasını əldə etmək",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "siqnalın kvantlanmasından sonra"
+            ],
+            "correct_answer": "siqnalın kvantlanmasından sonra"
+        },
+        {
+            "index": 2,
+            "question": "ARÇ-nin ( analoq rəqəm çeviricisi) vəzifəsini göstərin?",
+            "options": [
+                "siqnalların modulyasiyasını əldə etmək",
+                "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "mürəkkəb siqnalları əldə etmək",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək"
+            ],
+            "correct_answer": "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir"
+        },
+        {
+            "index": 3,
+            "question": "Çeviricinin vəzifəsi nədir?",
+            "options": [
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "mürəkkəb siqnalları əldə etmək",
+                "ölçülən siqnalı A/R-in giriş siqnalına, diapozonuna uyğunlaşdırır",
+                "siqnalların modulyasiyasını əldə etmək"
+            ],
+            "correct_answer": "ölçülən siqnalı A/R-in giriş siqnalına, diapozonuna uyğunlaşdırır"
+        },
+        {
+            "index": 4,
+            "question": "Siqnalların rəqəmli emalının texniki mahiyyəti nədən ibarətdir?",
+            "options": [
+                "mürəkkəb siqnalları əldə etmək",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "siqnalların rəqəmli emalının tətbiqindən",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "analoq giriş siqnalını ikilik rəqəmlər ardıcıllığına çevirərək riyazi və məntiqi əməliyyatların tətbiqindən"
+            ],
+            "correct_answer": "analoq giriş siqnalını ikilik rəqəmlər ardıcıllığına çevirərək riyazi və məntiqi əməliyyatların tətbiqindən"
+        },
+        {
+            "index": 5,
+            "question": "Siqnalın emalının əsas məsələləri bunlardan hansıdır? 1. Test və mürəkkəb siqnalların öyrənilməsi. 2. Siqnalların ədədi və ehtimal xarakteristikalarının təyini. 3.Siqnalların elementar təşkiledicilərə (harmonikalara) ayrılması. 4.Siqnalların \"oxşarlığının\" müəyyən edilməsi. Korrelyasiya analizi. 5. Spektral analiz - Furye analizi. 6. Süzgəcləmə. Faydalı siqnalı küylənmiş siqnaldan ayırma. 7. Siqnalların modulyasiyası",
+            "options": [
+                "2, 3, 7",
+                "1, 2, 3, 4, 5, 6, 7",
+                "4, 5, 6, 7",
+                "1, 2, 3",
+                "1, 5, 6, 7"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6, 7"
+        },
+        {
+            "index": 6,
+            "question": "Siqnalların rəqəmli emalı hansı məqsədlə yerinə yetirilir?",
+            "options": [
+                "siqnalların modulyasiyasını əldə etmək",
+                "siqnalların \"oxşarlığını\" müəyyən etmək",
+                "mürəkkəb siqnalları əldə etmək",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək"
+            ],
+            "correct_answer": "siqnalın daşıdığı faydalı göstəriciləri əldə etmək"
+        },
+        {
+            "index": 7,
+            "question": "Ötürmə fünksiyalarının üsullarını göstərin? 1. Sıfır tərtibli qeydedicinin ötürmə funksiyası 2. Bir tərtibli qeydedicinin ötürmə funksiyası 3.Siqnalların elementar təşkiledicilərə (harmonikalara) ayrılması funksiyası 4.Siqnalların \"oxşarlığının\" müəyyən edilməsi funksiyası",
+            "options": [
+                "1, 3, 4",
+                "1, 2, 3, 4",
+                "1, 2, 4",
+                "1, 2",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 8,
+            "question": "Sadə impuls elementində(ideal kvantlamada ) (*) nəyi bildirir?",
+            "options": [
+                "mürəkkəb siqnalları",
+                "aproksimasiya dəqiqliyi azalır",
+                "amplitud impuls modulyasiyalı siqnal",
+                "zamana görə kvantlamanı",
+                "Naykvist tezliyi"
+            ],
+            "correct_answer": "zamana görə kvantlamanı"
+        },
+        {
+            "index": 9,
+            "question": "Eni h olan impulslar necə alınır?",
+            "options": [
+                "kvantlayıcı element vasitəsi ilə analoq siqnalının T (kvantlama addımı) müddətdən bir qapanması hesabına",
+                "mürəkkəb siqnalları əldə etmək",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "çəpər şəkilli impulsları ekstrapolyasiya edib yadda saxlamaqla",
+                "ölçülən siqnalı A/R-in giriş siqnalına, diapozonuna uyğunlaşdırır"
+            ],
+            "correct_answer": "çəpər şəkilli impulsları ekstrapolyasiya edib yadda saxlamaqla"
+        },
+        {
+            "index": 10,
+            "question": "Çəpər şəkilli impls siqnalları necə alınır?",
+            "options": [
+                "mürəkkəb siqnalları əldə etmək",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "kvantlayıcı element vasitəsi ilə analoq siqnalının T (kvantlama addımı) müddətdən bir qapanması hesabına",
+                "ölçülən siqnalı A/R-in giriş siqnalına, diapozonuna uyğunlaşdırır",
+                "çəpər şəkilli impulsları ekstrapolyasiya edib yadda saxlamaqla"
+            ],
+            "correct_answer": "kvantlayıcı element vasitəsi ilə analoq siqnalının T (kvantlama addımı) müddətdən bir qapanması hesabına"
+        },
+        {
+            "index": 11,
+            "question": "Rəqəm siqnalı necə işarə olunur?",
+            "options": [
+                "x(tk,qn)",
+                "V2.s",
+                "tk=kT, k=0,1,2,...",
+                "x(kT)",
+                "V2"
+            ],
+            "correct_answer": "x(tk,qn)"
+        },
+        {
+            "index": 12,
+            "question": "Səviyyəyə görə kvantlama diskret siqnalın dəqiqliyini hansı siqnallar üçün əhəmiyyətli dərəcədə artırır?",
+            "options": [
+                "rəqəm siqnal",
+                "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır",
+                "impuls siqnalı",
+                "tezdəyişən analoq siqnalları",
+                "rele (sabit) siqnal"
+            ],
+            "correct_answer": "tezdəyişən analoq siqnalları"
+        },
+        {
+            "index": 13,
+            "question": "Həm zamana, həm də səviyyəyə görə kvantlanmış siqnal adlanır?",
+            "options": [
+                "impuls siqnalı",
+                "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır",
+                "tezdəyişən analoq siqnalları",
+                "rəqəm siqnal",
+                "rele (sabit) siqnal"
+            ],
+            "correct_answer": "rəqəm siqnal"
+        },
+        {
+            "index": 14,
+            "question": "Yalnız səviyyəyə görə kvantlanmış siqnal necə adlanır?",
+            "options": [
+                "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır",
+                "tezdəyişən analoq siqnalları",
+                "rəqəm siqnal",
+                "rele (sabit) siqnal",
+                "impuls siqnalı"
+            ],
+            "correct_answer": "rele (sabit) siqnal"
+        },
+        {
+            "index": 15,
+            "question": "İmpuls siqnalı necə işarə olunur?",
+            "options": [
+                "V",
+                "volt",
+                "V2",
+                "V2.s",
+                "x(kT)"
+            ],
+            "correct_answer": "x(kT)"
+        },
+        {
+            "index": 16,
+            "question": "Yalnız zamana görə kvantlanmış siqnal necə adlanır ?",
+            "options": [
+                "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır",
+                "impuls siqnalı",
+                "rəqəm siqnal",
+                "tezdəyişən analoq siqnalları",
+                "rele (sabit) siqnal"
+            ],
+            "correct_answer": "impuls siqnalı"
+        },
+        {
+            "index": 17,
+            "question": "Diskret siqnallar əsasən üç qrupa ayrılır. Bunlar hansıdır? 1.impuls siqnalı 2.rele (sabit) siqnalı 3. rəqəm siqnalı 4. analoq siqnalı",
+            "options": [
+                "1, 2",
+                "3, 4",
+                "1, 2, 3",
+                "1, 2, 4",
+                "1, 2, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 18,
+            "question": "Diskret siqnallar əsasən neçə qrupa ayrılır?",
+            "options": [
+                "1",
+                "5",
+                "4",
+                "3",
+                "2"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "index": 19,
+            "question": "Diskret siqnalın qiyməti zamanın tk=kT, k=0,1,2,... diskret anlarında məlum olur. Burada T nəyi bildirir?",
+            "options": [
+                "impuls siqnalı",
+                "rele (sabit) siqnal",
+                "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır",
+                "rəqəm siqnal",
+                "tezdəyişən analoq siqnalları"
+            ],
+            "correct_answer": "zamana və səviyyəyə gərə kvantlama (bölgü) addımıdır"
+        },
+        {
+            "index": 20,
+            "question": "Diskret siqnalın qiyməti nə zaman məlum olur?",
+            "options": [
+                "zamanın istənilən x anında",
+                "zamanın istənilən anında",
+                "zamanın istənilən t anında",
+                "hər zaman",
+                "tk=kT, k=0,1,2,..."
+            ],
+            "correct_answer": "tk=kT, k=0,1,2,..."
+        },
+        {
+            "index": 21,
+            "question": "Analoq x(t) siqnalının qiyməti nə zaman məlum olur?",
+            "options": [
+                "hər zaman",
+                "zamanın istənilən x anında",
+                "zamanın istənilən t anında",
+                "zamanın istənilən anında",
+                "heçvaxt"
+            ],
+            "correct_answer": "zamanın istənilən t anında"
+        },
+        {
+            "index": 22,
+            "question": "Siqnalları konkret olaraq hansı qrupa ayrmaq olar? 1. Analoq siqnallar. 2. Diskret siqnallar. 3.Rele (sabit) siqnallar 4. Rəqəm siqnalı",
+            "options": [
+                "2, 4",
+                "1, 2",
+                "3, 4",
+                "1, 3, 4",
+                "1, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 23,
+            "question": "Daşıyıcıdan asılı olaraq siqnallar hansı şəkildə ola bilər? 1.Pnevmotik; 2. Hidravlik; 3. Elektrik; 4. Elektromaqnit; 5. Optik",
+            "options": [
+                "2, 3, 4",
+                "4, 5",
+                "1, 2, 3",
+                "1, 2, 3, 4, 5",
+                "1, 4, 5"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5"
+        },
+        {
+            "index": 24,
+            "question": "Siqnalları ümumi göstəricilərə əsasən aşağıdakı qruplara ayırmaq olar: 1.Kvadratda inteqrallanan və ya məhdud enerjili siqnallardır 2.Siqnalların təsnifatının əlamətlərindən biri də dövrülükdür. 3.Siqnalların elementar təşkiledicilərə (harmonikalara) ayrılması. 4. Siqnalların \"oxşarlığının\" müəyyən edilməsi.",
+            "options": [
+                "2, 4",
+                "1, 4",
+                "1, 2",
+                "1, 3, 4",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 25,
+            "question": "Gücün enerjisi nəyə bərabərdir?",
+            "options": [
+                "amper",
+                "V2",
+                "V",
+                "V2.s",
+                "volt"
+            ],
+            "correct_answer": "V2.s"
+        },
+        {
+            "index": 26,
+            "question": "Gücün vahidi nəyə bərabərdir?",
+            "options": [
+                "amper",
+                "V2.s",
+                "V",
+                "V2",
+                "volt"
+            ],
+            "correct_answer": "V2"
+        },
+        {
+            "index": 27,
+            "question": "R/A (rəqəm-analoq çevricisi-RAÇ) haqqında doğru fikir hansıdır?",
+            "options": [
+                "mürəkkəb siqnalları əldə etmək",
+                "emal alqoritmini ikilik say sistemində yerinə yetirir",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "rəqəm qurğusunun çıxışında alınan rəqəm kodunu (ani impulsları) insanın başa düşdüyü onluq say sistemində təqdim olunan göstəricilərə çevirir",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək"
+            ],
+            "correct_answer": "rəqəm qurğusunun çıxışında alınan rəqəm kodunu (ani impulsları) insanın başa düşdüyü onluq say sistemində təqdim olunan göstəricilərə çevirir"
+        },
+        {
+            "index": 28,
+            "question": "Rəqəm qurğusunun vəzifəsi nədən ibarətdir?",
+            "options": [
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "ölçülən siqnalı A/R-in giriş siqnalına, diapozonuna uyğunlaşdırır",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "emal alqoritmini ikilik say sistemində yerinə yetirir",
+                "mürəkkəb siqnalları əldə etmək"
+            ],
+            "correct_answer": "emal alqoritmini ikilik say sistemində yerinə yetirir"
+        },
+        {
+            "index": 29,
+            "question": "Şəbəkəli funksiyanın arqumentin hansı aralıq qiymətində sıfra bərabər olan diskret funksiyadan istifadə edilir?",
+            "options": [
+                "ωN=2ωmax.",
+                "kT <t<=(k+1)T",
+                "x(tk,qn)",
+                "tk=kT, k=0,1,2,...",
+                "ωN"
+            ],
+            "correct_answer": "kT <t<=(k+1)T"
+        },
+        {
+            "index": 30,
+            "question": "Rəqəmli sistemərdə giriş və çıxış məlumatı kimi ədədi qiyməti yalnız x(kT) ,k= 0, 1, 2, ... zaman anlarında məlum olub, arqumentin aralıq kT <t<=(k+1)T qiymətində sıfra bərabər olan diskret funksiyadan istifadə edilir. Belə funksiya necə adlanır?",
+            "options": [
+                "çəki funksiyası",
+                "şəbəkəli funksiya",
+                "vahid təkan",
+                "vahid impuls",
+                "zamana görə kvantlama"
+            ],
+            "correct_answer": "şəbəkəli funksiya"
+        },
+        {
+            "index": 31,
+            "question": "Analoq qurğuları vahid impulsun yaratdığı hansı funksiya ilə xarakterizə edilir?",
+            "options": [
+                "zamana görə kvantlama",
+                "çəki funksiyası",
+                "şəbəkəli funksiya",
+                "vahid impuls",
+                "vahid təkan"
+            ],
+            "correct_answer": "çəki funksiyası"
+        },
+        {
+            "index": 32,
+            "question": "Rəqəm sistemlərinin və siqnallarının nəzəri tədqiqatlarında hansı metoddan istifadə olunur?",
+            "options": [
+                "vahid təkan",
+                "zamana görə kvantlama",
+                "şəbəkəli funksiya",
+                "vahid impuls",
+                "çəki funksiyası"
+            ],
+            "correct_answer": "zamana görə kvantlama"
+        },
+        {
+            "index": 33,
+            "question": "Çəpər funksiyasından nə zaman istifadə edilir?",
+            "options": [
+                "rəqəm sistemlərinin yaratdığı hansı funksiya ilə xarakterizə edəndə",
+                "zamana görə kvantlamada",
+                "analoq qurğuları vahid impulsun yaratdığı hansı funksiya ilə xarakterizə edəndə",
+                "rəqəm sistemlərin zaman oblastında sonlu fərq tənliklərinin köməyi ilə yazdıqda",
+                "məkana görə kvantlamada"
+            ],
+            "correct_answer": "rəqəm sistemlərin zaman oblastında sonlu fərq tənliklərinin köməyi ilə yazdıqda"
+        },
+        {
+            "index": 34,
+            "question": "İmpuls sistemlərin riyazi yazılışını necə qruplaşdırmaq olar? 1) zaman oblastında sonlu fərq tənliklərinin köməyi ilə 2) diskret Laplas və Z təsvirlərdə ötürmə funksiyalarının köməyi ilə 3) qeyri-xətti diskret ifadələrin köməyi ilə",
+            "options": [
+                "1, 2, 3",
+                "1, 2",
+                "1, 3",
+                "3",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 35,
+            "question": "Rəqəm sistemlərində siqnallar həm zamana, həm də səviyyəyə görə kvantlandığında rəqəm qurğularında baş verən proseslər necə yazılır?",
+            "options": [
+                "xətti diskret ifadələrin köməyi ilə",
+                "qeyri-xətti diskret ifadələrin köməyi ilə",
+                "analoq qurğuları vahid impulsun yaratdığı funksiya ilə xarakterizə edəndə",
+                "rəqəm sistemlərinin yaratdığı funksiya ilə xarakterizə edəndə",
+                "rəqəm sistemlərin zaman oblastında sonlu fərq tənliklərinin köməyi ilə"
+            ],
+            "correct_answer": "qeyri-xətti diskret ifadələrin köməyi ilə"
+        },
+        {
+            "index": 36,
+            "question": "Təsadüfi siqnalları ehtimalların paylanma qanununa görə hansı qruplara ayırmaq olar?1. Bərabər paylanma qanunu. 2. Normal paylanma (Qaus paylanması). 3. Eksponensial paylanma 4. Reley paylanması 5. Loqorifmik paylanma 6. Binominal paylanma 7. Student paylanması",
+            "options": [
+                "1, 2, 3, 7",
+                "1, 2, 3, 4, 5, 6, 7",
+                "1, 4, 5, 6",
+                "2, 3, 4, 5",
+                "4, 5, 6, 7"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6, 7"
+        },
+        {
+            "index": 37,
+            "question": "Siqnallar üzərində hansı funksiyalardan istifadə edilir? 1. Vahid impuls 2. Vahid addım 3. Vahid təkan 4. Vahid eniş 5. Vahid üçbucaq 6. Sinusoidal",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4, 5, 6",
+                "1, 4, 5, 6",
+                "2, 3, 4, 5",
+                "4, 5, 6"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6"
+        },
+        {
+            "index": 38,
+            "question": "Modelləşdirmə zamanı müxtəlif xarakteristikalı təsadüfi siqnalları generasiya etmək lazım gəlir.Bu hansı təsadüfi siqnallardır?",
+            "options": [
+                "pilləvari",
+                "ağ küy",
+                "stoxastik",
+                "harmonik",
+                "ideallaşdırılmış"
+            ],
+            "correct_answer": "ağ küy"
+        },
+        {
+            "index": 39,
+            "question": "Təsadüfi siqnallar necə xarakterizə olunur? 1. təsadüfi olmayan ədədi və ehtimal xarakteristikaları 2. korrelyasiya funksiyası 3. spektral sıxlıq",
+            "options": [
+                "1, 2",
+                "1, 2, 3",
+                "1, 3",
+                "3",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 40,
+            "question": "Harmonik siqnal hansı parametrləri ilə xarakterizə olunur? 1. amplitud 2. tezlik 3. bucaq tezliyi.",
+            "options": [
+                "1, 2",
+                "1, 2, 3",
+                "1, 3",
+                "3",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 41,
+            "question": "Vahid təkan siqnalı necə adlanır?",
+            "options": [
+                "ideallaşdırılmış",
+                "pilləvari",
+                "harmonik",
+                "sonlu müddətli",
+                "stoxastik"
+            ],
+            "correct_answer": "pilləvari"
+        },
+        {
+            "index": 42,
+            "question": "Vahid impuls siqnalı hansı tip siqnallara aiddir?",
+            "options": [
+                "pilləvari",
+                "ideallaşdırılmış",
+                "harmonik",
+                "sonlu müddətli",
+                "stoxastik"
+            ],
+            "correct_answer": "ideallaşdırılmış"
+        },
+        {
+            "index": 43,
+            "question": "Sonlu müddətli siqnal nə zaman sıfırdan fərqlənir ?",
+            "options": [
+                "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olan zaman",
+                "yalnız sonlu zaman intervalında",
+                "siqnalın kvantlanmasından sonra",
+                "mürəkkəb siqnalları əldə edilən zaman",
+                "zamanın bütün gələcək anlarında"
+            ],
+            "correct_answer": "yalnız sonlu zaman intervalında"
+        },
+        {
+            "index": 44,
+            "question": "Determinik siqnallara bunlardan hansı aiddir? 1. Sonlu müddətli siqnal 2.Vahid impuls tipli siqnal 3. Vahid təkan siqnalı 4. Harmonik siqnal. 5.Tək impuls. rəqslər. 6.İmpulslar ardıcıllığı və",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4, 5, 6",
+                "1, 4, 5, 6",
+                "2, 3, 4, 5",
+                "4, 5, 6"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6"
+        },
+        {
+            "index": 45,
+            "question": "Zamana görə təsadüfi olan siqnal necə adlanır?",
+            "options": [
+                "cüt",
+                "stoxastik",
+                "tezlik",
+                "impuls",
+                "tək"
+            ],
+            "correct_answer": "stoxastik"
+        },
+        {
+            "index": 46,
+            "question": "Təsadüfi siqnalın gələcək qiymətləri nə zaman məlum olur?",
+            "options": [
+                "zamanın bütün gələcək anlarında",
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "mürəkkəb siqnalları əldə etmək",
+                "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x<a).",
+                "siqnalın kvantlanmasından sonra"
+            ],
+            "correct_answer": "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x<a)."
+        },
+        {
+            "index": 47,
+            "question": "Determinik x(t) (və ya x(kT)) siqnalının qiyməti nə zaman məlum olur?",
+            "options": [
+                "ədədi və ehtimal xarakteristikalarını əldə etmək",
+                "mürəkkəb siqnalları əldə etmək",
+                "zamanın bütün gələcək anlarında",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək",
+                "siqnalın kvantlanmasından sonra"
+            ],
+            "correct_answer": "zamanın bütün gələcək anlarında"
+        },
+        {
+            "index": 48,
+            "question": "Siqnalları məlumat baxımından hansı qruplara ayırmaq olar? 1.Determinik siqnallar. 2.Təsadüfi siqnallar. 3.İmpuls siqnallar 4.Rele (sabit) siqnalılar",
+            "options": [
+                "2, 4",
+                "1, 2",
+                "1, 3, 4",
+                "3, 4",
+                "1, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 49,
+            "question": "Kvantlama nöqtələrinə əsasən siqnalın bərpası nəyin əsasında yerinə yetirilir?",
+            "options": [
+                "mürəkkəb siqnalları",
+                "Naykvist tezliyi",
+                "zamana görə kvantlamanı",
+                "Naykvist aproksimasiyası",
+                "amplitud impuls modulyasiyalı siqnal"
+            ],
+            "correct_answer": "Naykvist aproksimasiyası"
+        },
+        {
+            "index": 50,
+            "question": "Kvantlama tezliyi necə işarə olunur?",
+            "options": [
+                "tk=kT, k=0,1,2,...",
+                "x(kT)",
+                "ωN=2ωmax.",
+                "x(tk,qn)",
+                "ωk"
+            ],
+            "correct_answer": "ωk"
+        },
+        {
+            "index": 51,
+            "question": "Naykvist tezliyi nəyə bərabərdir?",
+            "options": [
+                "zamana görə kvantlamanı",
+                "Naykvist aproksimasiyası",
+                "Naykvist tezliyi",
+                "kvantlama tezliyinə",
+                "amplitud impuls modulyasiyalı siqnal"
+            ],
+            "correct_answer": "kvantlama tezliyinə"
+        },
+        {
+            "index": 52,
+            "question": "Naykvist tezliyi necə işarə olunur?",
+            "options": [
+                "x(tk,qn)",
+                "ωN=2ωmax.",
+                "x(kT)",
+                "tk=kT, k=0,1,2,...",
+                "ωN"
+            ],
+            "correct_answer": "ωN"
+        },
+        {
+            "index": 53,
+            "question": "Kvantlanmış harmonik siqnalı hansı parametrlərə görə itkisiz (xətasız) bərpa etmək mümkündür? 1.amplitud 2. tezlik 3. faza",
+            "options": [
+                "2, 3",
+                "1, 3",
+                "1, 2, 3",
+                "3",
+                "1, 2"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 54,
+            "question": "Siqnalın tezliyindən 2 dəfə böyük olan kvantlama tezliyi necə adlanır?",
+            "options": [
+                "ölçülən siqnalı",
+                "zamana görə kvantlamanı",
+                "amplitud impuls modulyasiyalı siqnal",
+                "Naykvist tezliyi",
+                "mürəkkəb siqnalları"
+            ],
+            "correct_answer": "Naykvist tezliyi"
+        },
+        {
+            "index": 55,
+            "question": "(AİM) necə izah olunur?",
+            "options": [
+                "mürəkkəb siqnalları",
+                "aproksimasiya dəqiqliyi azalır",
+                "zamana görə kvantlamanı",
+                "amplitud impuls modulyasiyalı siqnal",
+                "Naykvist tezliyi"
+            ],
+            "correct_answer": "amplitud impuls modulyasiyalı siqnal"
+        },
+        {
+            "index": 56,
+            "question": "Bir tərtibli qeydedicinin ötürmə funksiyasında T kvantlama addımını kiçildikdə nə baş verir?",
+            "options": [
+                "zamana görə kvantlamanı",
+                "mürəkkəb siqnalları",
+                "Naykvist tezliyi",
+                "aproksimasiya dəqiqliyi azalır",
+                "amplitud impuls modulyasiyalı siqnal"
+            ],
+            "correct_answer": "aproksimasiya dəqiqliyi azalır"
+        },
+        {
+            "index": 57,
+            "question": "İkitərəfli Laplas çevirməsində F(p) necə xarakterizə edilir?",
+            "options": [
+                "f(x) -in ancaq sağ yarımoxda təyin olunan zaman",
+                "f(x)-in gücü",
+                "f(x)-in mürəkkəbliyi",
+                "f(x)-in sürəti",
+                "f(x)-in uzunluğu"
+            ],
+            "correct_answer": "f(x)-in sürəti"
+        },
+        {
+            "index": 58,
+            "question": "İkitərəfli Laplas çevirməsində f(x) necə xarakterizə edilir?",
+            "options": [
+                "sadə",
+                "diferensial",
+                "stoxastik",
+                "orijinal",
+                "mürəkkəb"
+            ],
+            "correct_answer": "orijinal"
+        },
+        {
+            "index": 59,
+            "question": "F(p) funksiyasına f(x) funksiyasının ikitərəfli\tdeyilir ?",
+            "options": [
+                "Şəbəkəli funksiya",
+                "Z çevirməsi",
+                "Furye sırası",
+                "Laplas çevirməsi",
+                "Kvantlama addımı"
+            ],
+            "correct_answer": "Laplas çevirməsi"
+        },
+        {
+            "index": 60,
+            "question": "P(A/B) şərti ehtimalı aşağıdakı hökmlərdən hansını ifadə edir:",
+            "options": [
+                "A hadisəsinin baş verməsi fərziyyəsi",
+                "B hadisəsinin baş verməsi fərziyyəsi ilə A hadisəsinin başvermə ehtimalı",
+                "A və B hadisələrindən heç olmazsa birinin başvermə ehtimalı.",
+                "A hadisəsinin baş verməsi fərziyyəsi ilə B hadisəsinin başvermə ehtimalı",
+                "A və B hadisələrinin eyni zamanda baş verməsi ehtimalı"
+            ],
+            "correct_answer": "B hadisəsinin baş verməsi fərziyyəsi ilə A hadisəsinin başvermə ehtimalı"
+        },
+        {
+            "index": 61,
+            "question": "Puasson paylanması hansı tip paylanmadır?",
+            "options": [
+                "mütləq kəsilməz paylanma tipi",
+                "diskret paylanma ilə sinqulyar paylanmanın qarışığı",
+                "diskret paylanma ilə mütləq kəsilməz paylanmanın qarışığı",
+                "diskret paylanma tipi",
+                "sinqulyar paylanma tipi"
+            ],
+            "correct_answer": "diskret paylanma tipi"
+        },
+        {
+            "index": 62,
+            "question": "Çıxışın carı y(kT) qiymətini hesablamaq üçün çıxışın y(k-1),...,y(k-n) keçmiş zaman anındakı n sayda, girişin isə x(k), x(k-1),...,x(k-m) carı və keşmiş zaman anlarındakı m+1 sayda diskret qiymətləri məlum olduqda bu qiymətlər necə adlanır?",
+            "options": [
+                "sinqulyar paylanma tipi",
+                "diskret paylanma ilə mütləq kəsilməz paylanmanın qarışığı",
+                "diskret paylanma tipi",
+                "mütləq kəsilməz paylanma tipi",
+                "sonlu fərq tənliyinin başlanğıc şərti"
+            ],
+            "correct_answer": "sonlu fərq tənliyinin başlanğıc şərti"
+        },
+        {
+            "index": 63,
+            "question": "Sonlu fərq tənlikləri aşağıdakılardan hansı ilə xarakterizə olunur? 1. diskret qurğuların tənliklərini; 2. fasiləsiz diferensial tənliklərin diskret analoqunu; 3. ədədi hesablama üsullarının tətbiqindən alınmış həllər(kompüter proqramı)",
+            "options": [
+                "3",
+                "2, 3",
+                "1, 2",
+                "1, 2, 3",
+                "1, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 64,
+            "question": "İmpuls və şəbəkəli funksiyalarda analoq və rəqəm qurğuları arasında uyğunluq yarandıqda nə baş verir?",
+            "options": [
+                "Laplas və Z təsvirləri qeyri-xətti olur",
+                "Laplas və Z təsvirləri fərqli olur",
+                "Laplas və Z təsvirləri oxşar olur",
+                "Laplas və Z təsvirləri eyni olur",
+                "Laplas və Z təsvirləri xətti olur"
+            ],
+            "correct_answer": "Laplas və Z təsvirləri eyni olur"
+        },
+        {
+            "index": 65,
+            "question": "Şəbəkəli funksiyada Т nəyi bildirir?",
+            "options": [
+                "vahid təkan",
+                "zamana görə kvantlama",
+                "kvantlama addımı",
+                "çəki funksiyası",
+                "şəbəkəli funksiya"
+            ],
+            "correct_answer": "kvantlama addımı"
+        },
+        {
+            "index": 66,
+            "question": "Əgər qurğu analoq qurğusu olub giriş diskret siqnaldan ibarətdirsə, onun ötürmə funksiyasını ala bilmək üçün çıxış kəmiyyəti hansı formada olmalıdır?",
+            "options": [
+                "tək",
+                "tezlik",
+                "stoxastik",
+                "cüt",
+                "diskret"
+            ],
+            "correct_answer": "diskret"
+        },
+        {
+            "index": 67,
+            "question": "Diskret ötürmə funksiylarında hansı çevrilmə üsullarından istifadə edilir?",
+            "options": [
+                "diskret ötürmə",
+                "diskret paylanma tipi",
+                "şəbəkəli funksiya",
+                "kvantlama addımı",
+                "diskret Laplas və Z"
+            ],
+            "correct_answer": "diskret Laplas və Z"
+        },
+        {
+            "index": 68,
+            "question": "Sıfır başlanğıc şərtində qurğunun çıxış kəmiyyətinin Laplas təsvirinin, onun giriş kəmiyyətinin Laplas təsvirinə olan nisbəti necə adlanır?",
+            "options": [
+                "kvantlama addımı",
+                "diskret paylanma tipi",
+                "diskret ötürmə",
+                "ötürmə funksiyası",
+                "şəbəkəli funksiya"
+            ],
+            "correct_answer": "ötürmə funksiyası"
+        },
+        {
+            "index": 69,
+            "question": "Tərs Z-çevirməsindən nə zaman istifadə edilir?",
+            "options": [
+                "ədədi və ehtimal xarakteristikalarını əldə etmək üçün",
+                "siqnalın kvantlanmasından sonra",
+                "siqnalın daşıdığı faydalı göstəriciləri əldə etmək üçün",
+                "x(kT) şəbəkəli funksiyasını tapmaq üçün",
+                "mürəkkəb siqnalları əldə etmək üçün"
+            ],
+            "correct_answer": "x(kT) şəbəkəli funksiyasını tapmaq üçün"
+        },
+        {
+            "index": 70,
+            "question": "Z çevrilməsinin əsas xassələri bunlardan hansıdır? 1. Xəttilik 2. Zaman üzrə sağa sürüşdürmə 3. Zaman üzrə sola sürüşdürmə 4. Z üzrə miqyasın dəyişdirilməsi 5. Originalın başlanğıc qiyməti 6. Originalın son qiyməti",
+            "options": [
+                "2, 3, 4, 5",
+                "4, 5, 6",
+                "1, 2, 3",
+                "1, 2, 3, 4, 5, 6",
+                "1, 4, 5, 6"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6"
+        },
+        {
+            "index": 71,
+            "question": "Diskret Laplas çevirməsi hansı funksiyalara tətbiq oluna bilər? 1. impuls funksiyası 2. şəbəkəli funksiya 3. çəpər funksiyası",
+            "options": [
+                "1, 3",
+                "3",
+                "1, 2",
+                "2, 3",
+                "1, 2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 72,
+            "question": "Laplas çevirməsinə hansı teoremlər tətbiq edilir? 1. Gecikmə teoremi 2. Qabaqlama teoremi 3. Eyler teoremi",
+            "options": [
+                "1, 3",
+                "1, 2, 3",
+                "2, 3",
+                "1, 2",
+                "3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 73,
+            "question": "Laplas çevirməsinin xassələri bunlardan hansıdır? 1. Orijinalı sabitə vurduqda onun surəti də həmin sabitə vurulur 2. Iki funksiyanın cəbri cəminin Laplas çevirməsi həmin funksiyaların Laplas çevirmələrinin cəbri cəminə bərabərdir. 3. Köçürmə (yerdəyişmə) teoremi 4. Orijinalın inteqrallanması",
+            "options": [
+                "2, 3, 4",
+                "1, 2",
+                "3, 4",
+                "1, 2, 3, 4",
+                "1, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 74,
+            "question": "Laplas çevirməsinin əsas mahiyyəti nədir?",
+            "options": [
+                "analoq qurğuları vahid impulsun yaratdığı hansı funksiya ilə xarakterizə edəndə",
+                "başlanğıc şərtli diferensial tənliklərə gətirilən fiziki məsələləri həll etmək",
+                "məkana görə kvantlamada",
+                "rəqəm sistemlərinin yaratdığı hansı funksiya ilə xarakterizə edəndə",
+                ""
+            ],
+            "correct_answer": "başlanğıc şərtli diferensial tənliklərə gətirilən fiziki məsələləri həll etmək"
+        },
+        {
+            "index": 75,
+            "question": "Nə zaman F(p)-yə f(x)-in birtərəfli Laplas çevirməsi deyilir ?",
+            "options": [
+                "f(x) funksiyasını orijinalı sabitə vurduqda",
+                "f(x) funksiyası ancaq sol yarımoxda təyin olunan zaman",
+                "f(x) funksiyası ancaq sağ yarımoxda təyin olunan zaman",
+                "f(x) funksiyası hər iki oxda təyin olunan zaman",
+                "f(x) funksiyası təyin olunmayan zaman"
+            ],
+            "correct_answer": "f(x) funksiyası ancaq sağ yarımoxda təyin olunan zaman"
+        },
+        {
+            "index": 76,
+            "question": "Çıxıqlar üsulunun tətbiqi hansı teoremə əsaslanır?",
+            "options": [
+                "Furye",
+                "Laplas",
+                "Runqe-Kutte",
+                "Koşi",
+                "Eyler"
+            ],
+            "correct_answer": "Koşi"
+        },
+        {
+            "index": 77,
+            "question": "Matlabda köklərin vahid çevrənin daxilinə düşüb-düşməməsini bilmək üçün hansı funksiyadan istifadə edilir?",
+            "options": [
+                "roots(.)",
+                "then(.)",
+                "iztrans(.)",
+                "step(Wz)",
+                "pzmap(Wz)"
+            ],
+            "correct_answer": "pzmap(Wz)"
+        },
+        {
+            "index": 78,
+            "question": "Matlabda Kokləri tapmaq üçün hansı funksiyasından istifadə edilir?",
+            "options": [
+                "iztrans(.)",
+                "then(.)",
+                "pzmap(Wz)",
+                "step(Wz)",
+                "roots(.)"
+            ],
+            "correct_answer": "roots(.)"
+        },
+        {
+            "index": 79,
+            "question": "Diskret sistemin dayanıqlı olması necə izah edilir?",
+            "options": [
+                "əvvəlki tarazlıq vəziyyətinə qayıtma",
+                "dayanıqlı olması",
+                "diskret olması",
+                "onun xarakteristik tənliyinin bütün kökləri vahid çevrenin daxilində yerləşməlidir",
+                "stoxastik olması"
+            ],
+            "correct_answer": "onun xarakteristik tənliyinin bütün kökləri vahid çevrenin daxilində yerləşməlidir"
+        },
+        {
+            "index": 80,
+            "question": "Rəqəm sistemlərində bu halların hansı ola bilər? 1. rəqəm sistemi dayanıqlıdır 2. rəqəm sistemi dayanıqsızdır 3. sistem neytraldır",
+            "options": [
+                "1, 3",
+                "3",
+                "1, 2",
+                "2, 3",
+                "1, 2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 81,
+            "question": "Dayanıqlılıq sistemi necə xarakterizə edilir?",
+            "options": [
+                "onun xarakteristik tənliyinin bütün kökləri vahid çevrenin daxilində yerləşməlidir",
+                "əvvəlki tarazlıq vəziyyətinə qayıtma",
+                "dayanıqlı olması",
+                "diskret olması",
+                "stoxastik olması"
+            ],
+            "correct_answer": "əvvəlki tarazlıq vəziyyətinə qayıtma"
+        },
+        {
+            "index": 82,
+            "question": "Rəqəm sistemlərinin normal işləməsinin əsas şərti nədir?",
+            "options": [
+                "cüt olması",
+                "tək olması",
+                "diskret olması",
+                "stoxastik olması",
+                "dayanıqlı olması"
+            ],
+            "correct_answer": "dayanıqlı olması"
+        },
+        {
+            "index": 83,
+            "question": "Analoq ötürmə funksiyasından diskret ötürmə funksiyasına keçid zamanı aşağıdakı bəndlərin hansından istifadə edilir? 1. analoq ötürmə funksiyasının formalaşdırılması 2. diskret ötürmə funksiyasına keçid 3. ədədi hesablama üsullarının tətbiqindən alınmış həllər(kompüter proqramı)",
+            "options": [
+                "1, 3",
+                "1, 2, 3",
+                "2, 3",
+                "1, 2",
+                "3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 84,
+            "question": "Matlabda tərs Z-şevirmə hansı funksiyası vasitəsi ilə realizasiya olunur?",
+            "options": [
+                "if(.)",
+                "roots(.)",
+                "step(Wz)",
+                "iztrans(.)",
+                "then(.)"
+            ],
+            "correct_answer": "iztrans(.)"
+        },
+        {
+            "index": 85,
+            "question": "Diskret ötürmə funksiyalarının təyini zamanı aşağıdakı hallardan hansı ola bilər? 1. qurğu diferensial tənliyi məlum olan təbiətcə analoq qurğusudur 2. qurğu təbiətcə diskret olub dinamikası sonlu fərq tənliyi şəklində verilir 3.çəki funksiyası məlum olan analoq qurğusunun girişinə impuls funksiyası verilir 4. analoq qurğusunun girişinə ötürmə funksiyalı qeydedici qoşulur",
+            "options": [
+                "1, 2",
+                "2, 3, 4",
+                "1, 3, 4",
+                "1, 2, 3, 4",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 86,
+            "question": "İdarəetmə sisteminin funksiyaları aşağıdakılardan hansıdır? 1. Obyekt 2. Məqsəd Məqsəd operatorun beynində yadda saxlanılır. 3. Ölçmə və məlumatın toplanması. 4. Müqaisə. 5. İdarə qərarlarının qəbul edilməsi. 6. İcra orqanı",
+            "options": [
+                "1, 2, 6",
+                "1, 2, 3, 4, 5, 6",
+                "1, 5, 6",
+                "4, 5, 6",
+                "2, 3, 4,"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6"
+        },
+        {
+            "index": 87,
+            "question": "Avtomatik sistemlər üçün avtomatlaşdırma dərəcəsi necə qəbul edilir?",
+            "options": [
+                "0",
+                "1",
+                "3",
+                "4",
+                "2"
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "index": 88,
+            "question": "Əgər idarə əl ilə aparılarsa, avtomatlaşdırma dərəcəsi necə qəbul edilir?",
+            "options": [
+                "1",
+                "0",
+                "3",
+                "4",
+                "2"
+            ],
+            "correct_answer": "0"
+        },
+        {
+            "index": 89,
+            "question": "İnsanın az və ya çox əməliyyatlarda iştirakını qiymətləndirmək üçün hansı anlayışından istifadə olunur?",
+            "options": [
+                "avtomatlaşdırma",
+                "avtomatlaşdırma dərəcəsi",
+                "resurs",
+                "informasiya sistemi",
+                "obyekt"
+            ],
+            "correct_answer": "avtomatlaşdırma dərəcəsi"
+        },
+        {
+            "index": 90,
+            "question": "Əl və intellektual əməyi yüngülləşdirmək məqsədi ilə texniki vasitələrdən istifadə edilməsi necə adlanır?",
+            "options": [
+                "avtomatlaşdırma dərəcəsi",
+                "avtomatlaşdırma",
+                "resurs",
+                "informasiya sistemi",
+                "obyekt"
+            ],
+            "correct_answer": "avtomatlaşdırma"
+        },
+        {
+            "index": 91,
+            "question": "Çoxölçülü obyektlər bunlardan hansıdır? 1. bir giriş və bir çıxış olduqda 2. giriş və çıxışların sayı çox olduqda 3. yalnız bir girişi olduqda 4. yalnız bir çıxışı olduqda",
+            "options": [
+                "1, 2, 3, 4",
+                "2",
+                "3, 4",
+                "2, 3, 4",
+                "1, 2"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "index": 92,
+            "question": "Birölçülü obyektlər bunlardan hansıdır? 1. bir giriş və bir çıxış olduqda 2. giriş və çıxışların sayı çox olduqda 3. yalnız bir girişi olduqda 4. yalnız bir çıxışı olduqda",
+            "options": [
+                "1, 2, 3, 4",
+                "1",
+                "3, 4",
+                "2, 3, 4",
+                "1, 2"
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "index": 93,
+            "question": "Giriş və çıxışların sayına görə obyektlər hansılardır? 1. birölçülü obyektlər 2. çoxölçülü obyektlər 3. ikiölçülü obyektlər",
+            "options": [
+                "1, 2, 3",
+                "1, 2",
+                "1, 3",
+                "3",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 94,
+            "question": "Obyektlərin təsnifatı hansı əlamətlərə görə aparılır?",
+            "options": [
+                "çıxışların sayına görə",
+                "giriş və çıxışların sayına görə",
+                "yalnız bir girişi olduqda",
+                "yalnız bir çıxışı olduqda",
+                "girişin sayına görə"
+            ],
+            "correct_answer": "giriş və çıxışların sayına görə"
+        },
+        {
+            "index": 95,
+            "question": "Yerinə yetirmək istədiyimiz prosesin məhdud məkanda aparılmasını və idarə oluna bilməsini təmin edən qurğu necə adlanır?",
+            "options": [
+                "resurs",
+                "obyekt",
+                "kompüter",
+                "texnologiya",
+                "müəssisə"
+            ],
+            "correct_answer": "obyekt"
+        },
+        {
+            "index": 96,
+            "question": "İstənilən sistemin yaradılmasında əsas məqsəd aşağıdakılardan hansıdır? 1. əmək və kapital məsrəflərinin azaldılması; 2. keyfiyyətin yüksəldilməsi; 3.məqsədə tez bir zamanda nail olunması",
+            "options": [
+                "1",
+                "1, 2, 3",
+                "3",
+                "2, 3",
+                "2"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 97,
+            "question": "İdarəetmənin əsas metodoloji prinsipi nədir ?",
+            "options": [
+                "axtarışın aktuallığı",
+                "axtarışın dəqiqliyi",
+                "sistemli yanaşma",
+                "axtarışın etibarlılığı",
+                "axtarışın dolğunluğu"
+            ],
+            "correct_answer": "sistemli yanaşma"
+        },
+        {
+            "index": 98,
+            "question": "Spektral analizin riyazı əsasını nə təşkil edir?",
+            "options": [
+                "sistemli yanaşma",
+                "Furye çevirməsi",
+                "axtarışın dəqiqliyi",
+                "axtarışın etibarlılığı",
+                "axtarışın dolğunluğu"
+            ],
+            "correct_answer": "Furye çevirməsi"
+        },
+        {
+            "index": 99,
+            "question": "Spektral analizin əsas tətbiq sahələri bunlardan hansıdır? 1. siqnalların harmonik (tezlik) tərtibini araşdırması 2. tezlik üzrə gücünün paylanma qanununun (spektral sıxlıq) təyin edilməsi 3. Periodik olmayan siqnallara furye sırasını tətbiqi",
+            "options": [
+                "1, 2, 3",
+                "1, 2",
+                "1, 3",
+                "3",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 100,
+            "question": "Bazis funksiyalarından asılı olaraq müxtəlif formalı Furye sıralarından istifadə olunur. Bu hansıdır? 1. Sinus-cosinus forması 2. Həqiqi forma 3. Kompleks forma",
+            "options": [
+                "3",
+                "1, 2, 3",
+                "2",
+                "1",
+                "2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 101,
+            "question": "Furye sırasını tətbiq edə bilmək üçün x(t) siqnalı Dirixle şərtlərini ödəməlidir. Bu şərtlər hansıdır? 1. ikinci tərtib (sonsuzluğa gedən) sıçrayışlar olmalı deyil. 2. birinci tərtib (sonlu) sıçrayışların sayı məhduddur. 3. ekstremumların sayı məhduddur.",
+            "options": [
+                "2",
+                "2, 3",
+                "3",
+                "1",
+                "1, 2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 102,
+            "question": "Periodik olmayan siqnallara furye sırasını tətbiq etdikdə Furye sırası Furye inteqralına çevrilir. Bu inteqral necə adlanır?",
+            "options": [
+                "axtarışın dolğunluğu",
+                "sistemli yanaşma",
+                "Furye çevirməsi",
+                "axtarışın dəqiqliyi",
+                "axtarışın etibarlılığı"
+            ],
+            "correct_answer": "Furye çevirməsi"
+        },
+        {
+            "index": 103,
+            "question": "Furye sırası hansı siqnallara tətbiq olunur?",
+            "options": [
+                "vahid təkan",
+                "tək",
+                "cüt",
+                "dövrü (periodik)",
+                "vahid impuls"
+            ],
+            "correct_answer": "dövrü (periodik)"
+        },
+        {
+            "index": 104,
+            "question": "Qeyri-hamar funksiyaya misal olaraq bunlardan hansını göstərmək olar?",
+            "options": [
+                "düzbucaqlı inpulslar ardıcıllığını",
+                "vahid təkan signalları",
+                "üçbucaqlı impulslar ardıcıllığını",
+                "vahid impuls signalları",
+                "vahid üçbucaq signalları"
+            ],
+            "correct_answer": "üçbucaqlı impulslar ardıcıllığını"
+        },
+        {
+            "index": 105,
+            "question": "Kəsilən funksiyaya misal olaraq bunlardan hansını göstərmək olar?",
+            "options": [
+                "vahid üçbucaq signalları",
+                "üçbucaqlı impulslar ardıcıllığını",
+                "vahid təkan signalları",
+                "vahid impuls signalları",
+                "düzbucaqlı inpulslar ardıcıllığını"
+            ],
+            "correct_answer": "düzbucaqlı inpulslar ardıcıllığını"
+        },
+        {
+            "index": 106,
+            "question": "Furye sırasının əsas üstünlüyü bunlardan hansıdır?",
+            "options": [
+                "kəsilən funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) edir",
+                "qeyri-hamar funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) edir",
+                "kəsilən funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) etmir",
+                "kəsilən və qeyri-hamar funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) edir",
+                "qeyri-hamar funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) etmir"
+            ],
+            "correct_answer": "kəsilən və qeyri-hamar funksiyaları hamar funksiyalar ilə yüksək dəqiqliklə aproksimasiya (yaxınlaşma) edir"
+        },
+        {
+            "index": 107,
+            "question": "Kvantlanmış harmonik siqnalı hansı parametrlərə görə itkisiz (xətasız) bərpa etmək mümkündür? 1. amplitud 2. tezlik 3. faza",
+            "options": [
+                "2",
+                "1",
+                "2, 3",
+                "3",
+                "1, 2, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 108,
+            "question": "Siqnalın tezliyindən 2 dəfə böyük olan kvantlama tezliyi necə adlanır?",
+            "options": [
+                "axtarışın dəqiqliyi",
+                "Furye çevirməsi",
+                "sistemli yanaşma",
+                "Naykvist tezliyi",
+                "axtarışın dolğunluğu"
+            ],
+            "correct_answer": "Naykvist tezliyi"
+        },
+        {
+            "index": 109,
+            "question": "Matlabda keçid xarakteristikası hansı funksiyasının köməyi ilə qurulur?",
+            "options": [
+                "then(.)",
+                "iztrans(.)",
+                "step(Wz)",
+                "roots(.)",
+                "pzmap(Wz)"
+            ],
+            "correct_answer": "step(Wz)"
+        },
+        {
+            "index": 110,
+            "question": "Sadələşdrmə zamanı hansı üsullardan istifadə edilir? 1. sadə kəsirlərə ayırma 2. Z-in mənfi qüvvətlrinə nəzərən sıraya ayırma 3. diskret ötürmə funksiyasına keçid",
+            "options": [
+                "3",
+                "2, 3",
+                "1, 2, 3",
+                "1, 2",
+                "1, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 111,
+            "question": "Cədvəllələ verilmiş Z təsvirlər nədən ibarətdir?",
+            "options": [
+                "diskret ötürmədən",
+                "kvantlama addımından",
+                "ötürmə funksiyasından",
+                "diskret paylanma tipindən",
+                "sadə funksiyalardan"
+            ],
+            "correct_answer": "sadə funksiyalardan"
+        },
+        {
+            "index": 112,
+            "question": "ATN -də çıxıqlar üsulundan istifadə etmək üçün nəyi bilmək lazımdır?",
+            "options": [
+                "diskret Laplas və Z çevrilməsini",
+                "kvantlama addımını",
+                "diskret ötürməni",
+                "obyektin çıxış siqnalının Z təsvirini",
+                "diskret paylanma tipini"
+            ],
+            "correct_answer": "obyektin çıxış siqnalının Z təsvirini"
+        },
+        {
+            "index": 113,
+            "question": "İdarə və həyəcanlandırıcı təsirlər obyektin hansı koordinatlarıdır?",
+            "options": [
+                "tənzimlənən koordinatlar",
+                "nəzarət olunan koordinatlar",
+                "çıxış koordinatları",
+                "giriş koordinatları",
+                "vəziyyət koordinatları"
+            ],
+            "correct_answer": "giriş koordinatları"
+        },
+        {
+            "index": 114,
+            "question": "Obyektin iş rejimini texniki qurğuların köməyilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi necə adlanır?",
+            "options": [
+                "tənzimləmə obyekti",
+                "tənzimləmə sistemi",
+                "tənzimləyici",
+                "tənzimləmə",
+                "tənzimlənən kəmiyyət"
+            ],
+            "correct_answer": "tənzimləmə"
+        },
+        {
+            "index": 115,
+            "question": "Obyektə məqsədyönlü idarə təsiri göstərən texniki qurğu necə adlanır?",
+            "options": [
+                "tənzimləmə sistemi",
+                "tənzimlənən kəmiyyət",
+                "tənzimləyici",
+                "tənzimləmə obyekti",
+                "tənzimləmə"
+            ],
+            "correct_answer": "tənzimləyici"
+        },
+        {
+            "index": 116,
+            "question": "Tənzimləyici ilə obyektin vəhdəti necə adlanır?",
+            "options": [
+                "tənzimlənən kəmiyyət",
+                "tənzimləmə",
+                "tənzimləyici",
+                "tənzimləmə sistemi",
+                "tənzimləmə obyekti"
+            ],
+            "correct_answer": "tənzimləmə sistemi"
+        },
+        {
+            "index": 117,
+            "question": "Aşağıdakılardan hansı biri tənzimlənən kəmiyyətlər adlanır?",
+            "options": [
+                "qiyməti qabaqcadan məlum olmayan təsirlər",
+                "prosesin öz mahiyyəti ilə əlaqədar olmayıb,xarici səbəblərdən yaranan təsirlər",
+                "obyektin özünün və qurğuların xarakteristikalarının dəyişməsi ilə yaranan təsirlər",
+                "tənzimləmə obyektinin iş rejimini xarakterizə edən fiziki göstəricilər",
+                "zamanın məlum funksiyası şəklində verilən təsirlər"
+            ],
+            "correct_answer": "tənzimləmə obyektinin iş rejimini xarakterizə edən fiziki göstəricilər"
+        },
+        {
+            "index": 118,
+            "question": "Aşağıdakılardan hansı biri avtomatik nəzarət sistemi adlanır? 1. obyektin iş rejiminin texniki qurğuların köməyi ilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi 2. tənzim olunan maşınlar,aparatlar və aqreqatlar 3. obyektə məqsədyönlü idarə təsiri göstərən texniki qurğu 4. tənzimləyici ilə obyektin vəhdəti 5. hər hansı prosesin gedişinin insan iştirakı olmadan müayinə edilməsi",
+            "options": [
+                "1, 3, 4",
+                "1, 2, 3, 4, 5",
+                "1, 3",
+                "5",
+                "2, 4"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "index": 119,
+            "question": "Aşağıdakılardan hansı biri avtomatik tənzimləmə sistemi adlanır? 1. obyektin iş rejiminin texniki qurğuların köməyi ilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi 2. tənzim olunan maşınlar,aparatlar və aqreqatlar 3. obyektə məqsədyönlü idarə təsiri göstərən texniki qurğu 4. tənzimləyici ilə obyektin vəhdəti 5. hər hansı prosesin gedişinin insan iştirakı olmadan müayinə edilməsi",
+            "options": [
+                "1, 3, 5",
+                "1, 5",
+                "2, 4, 5",
+                "4",
+                "1, 2, 3, 4, 5"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "index": 120,
+            "question": "Aşağıdakılardan hansı biri tənzimləyici adlanır? 1. obyektin iş rejiminin texniki qurğuların köməyi ilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi 2. tənzim olunan maşınlar,aparatlar və aqreqatlar 3. obyektə məqsədyönlü idarə təsiri göstərən texniki qurğu 4. tənzimləyici ilə obyektin vəhdəti 5. hər hansı prosesin gedişinin insan iştirakı olmadan müayinə edilməsi",
+            "options": [
+                "1, 5",
+                "1, 2, 3, 4, 5",
+                "2, 4, 5",
+                "3",
+                "1, 3, 5"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "index": 121,
+            "question": "Aşağıdakılardan hansı biri avtomatik tənzimləmə obyekti adlanır?  1. obyektin iş rejiminin texniki qurğuların köməyi ilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi 2. tənzim olunan maşınlar, aparatlar və aqreqatlar 3. obyektə məqsədyönlü idarə təsiri göstərən texniki qurğu 4. tənzimləyici ilə obyektin vəhdəti 5. hər hansı prosesin gedişinin insan iştirakı olmadan müayinə edilməsi",
+            "options": [
+                "1, 3, 5",
+                "2, 4, 5",
+                "1, 5",
+                "2",
+                "1, 2, 3, 4, 5"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "index": 122,
+            "question": "Çıxışda idarəedici təsirin növünə görə icra mexanizmlərinin hansı növləri var?",
+            "options": [
+                "Parametrik və pyezoelektrik icra mexanizimləri",
+                "Güc icra mexanizimləri",
+                "Güc və parametrik icra mexanizmləri",
+                "Parametrik icra mexanizimləri",
+                "Pyezoelektrik icra mexanizimləri"
+            ],
+            "correct_answer": "Güc və parametrik icra mexanizmləri"
+        },
+        {
+            "index": 123,
+            "question": "Hansı sistemdə tapşırıq siqnalı qabaqcadan məlum olmayan qanun üzrə dəyişir?",
+            "options": [
+                "adaptiv",
+                "izləyici",
+                "stabilizasiya",
+                "proqramlı idarəetmə",
+                "ekstremal"
+            ],
+            "correct_answer": "izləyici"
+        },
+        {
+            "index": 124,
+            "question": "Hansı obyektlər dinamik obyektlər adlanır?1. girişi pilləvari dəyişdikdə vəziyyəti dəyişməyən obyektlər 2. girişi pilləvari dəyişdikdə vəziyyəti ani dəyişərək yeni sabit qiymət alan obyektlər 3. girişi pilləvari dəyişdikdə vəziyyəti zamana görə dəyişən obyektlər 4. girişi pilləvari dəyişdikdə vəziyyəti ani dəyişməyən obyektlər 5. girişə heç bir reaksiya verməyən obyektlər",
+            "options": [
+                "1, 3, 5",
+                "1, 2, 3, 4, 5",
+                "1, 5",
+                "2, 4, 5",
+                "3"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "index": 125,
+            "question": "Avtomatik tənzimləmə sistemində tənzimləyicidə hasil olan siqnal nəyə təsir göstərir?",
+            "options": [
+                "vericiyə",
+                "icra orqanına",
+                "tapşırıq orqanına",
+                "obyektə",
+                "gücləndiriciyə"
+            ],
+            "correct_answer": "icra orqanına"
+        },
+        {
+            "index": 126,
+            "question": "Sənaye avtomatikasının funksional təyinatina görə növləri hansılardır? 1. Istilik energetikası 2. Elktro energetika 3. Mexanika 4. Fiziki xassələr",
+            "options": [
+                "2, 3, 4",
+                "1, 4",
+                "1, 2, 3",
+                "3, 4",
+                "1, 2, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 127,
+            "question": "İcra mexanizmnin vəzifəsinə bunlardan hansı aid deyil? 1. Xətanı hesablayır 2. Həyəcanı ölçür 3. Xətanı diferensallayır 4. Xətanı inteqrallayır",
+            "options": [
+                "1, 2, 3",
+                "1, 4",
+                "1, 2, 3, 4",
+                "3, 4",
+                "2, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 128,
+            "question": "Avtomatlaşdırmanın element bazasının inkişaf mərhələsinə hansilar aiddir? 1. inteqral sxemlər 2. kontaksız məntiqi qurğular 3. böyük inteqral sxemlər 4. çox böyük inteqral sxemlər",
+            "options": [
+                "1, 2, 3",
+                "1, 4",
+                "3, 4",
+                "1, 2, 3, 4",
+                "2, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 129,
+            "question": "Hansı obyektlər statik və ya ətalətsiz obyektlər adlanır?",
+            "options": [
+                "girişi pilləvari dəyişdikdə vəziyyəti ani dəyişməyən obyektlər",
+                "girişi pilləvari dəyişdikdə vəziyyəti dəyişməyən obyektlər",
+                "girişi pilləvari dəyişdikdə vəziyyəti zamana görə dəyişən obyektlər",
+                "girişə heç bir reaksiya verməyən obyektlər",
+                "girişi pilləvari dəyişdikdə vəziyyəti ani dəyişərək yeni sabit qiymət alan obyektlər"
+            ],
+            "correct_answer": "girişi pilləvari dəyişdikdə vəziyyəti ani dəyişərək yeni sabit qiymət alan obyektlər"
+        },
+        {
+            "index": 130,
+            "question": "Avtomatik idarəetmə sistemi necə izah edilir ?",
+            "options": [
+                "Sensorlu displey",
+                "Texniki vasitələrin öz aralarında qarşılıqlı təsiri nəticəsində idarəetmə",
+                "Texniki nəzarət",
+                "Giriş qurğuları",
+                "Kənardan izləmə"
+            ],
+            "correct_answer": "Texniki vasitələrin öz aralarında qarşılıqlı təsiri nəticəsində idarəetmə"
+        },
+        {
+            "index": 131,
+            "question": "Avtomatlaşdırılmış idarəetmə sistemi nəyin vəhdətidir?",
+            "options": [
+                "təbiət-insan sistemlərinin",
+                "təbiət - maşın sistemlərinin",
+                "insan - maşın sistemlərinin",
+                "Insan - təbiət sistemlərinin",
+                "istehsal - texnika sistemlərinin"
+            ],
+            "correct_answer": "insan - maşın sistemlərinin"
+        },
+        {
+            "index": 132,
+            "question": "Proqram tənzimləmə sistemlərində hansı sistemlərdən istifadə olunur:? 1. vaxt proqramlı sistemlər 2. fəza proqramlı sistemlər 3. ekstremal tənzimləmə sistemləri 4. optimal tənzimləmə sistemləri",
+            "options": [
+                "2, 4",
+                "1, 2, 4",
+                "1, 2",
+                "3, 4",
+                "1, 2, 3, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 133,
+            "question": "Avtomatik tənzimləmədə Stabilləşdirmə rejiminə bunlardan hansı aiddir? 1. statik tənzimləmə sistemləri 2. astatik tənzimləmə sistemləri 3. ekstremal tənzimləmə sistemləri 4. optimal tənzimləmə sistemləri",
+            "options": [
+                "2, 4",
+                "1, 2, 3, 4",
+                "1, 2, 4",
+                "1, 2",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 134,
+            "question": "Avtomatik tənzimləmənin əsas növləri hansıdır? 1. Stabilləşdirmə 2. Proqram üzrə tənzimləmə 3. İzləyici sistemlər 4. Ekstremal tənzimləmə sistemləri 5. Adaptiv sistemlər 6. Optimal tənzimləmə sistemləri",
+            "options": [
+                "4, 5, 6",
+                "1, 2, 3, 4, 5, 6",
+                "2, 3, 4",
+                "1, 2, 6",
+                "1, 5, 6"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6"
+        },
+        {
+            "index": 135,
+            "question": "Avtomatik tənzimləmə sistemlərinin qurulmasının əsası kimi hansı prinsiplərdən istifadə olunur? 1. birbaşa və ya açıq idarəetmə prinsipi; 2. əks əlaqə prinsipi; 3. həyəcanlandırıcı təsirin kompensasiyası prinsipi.",
+            "options": [
+                "2, 3",
+                "2",
+                "1, 2, 3",
+                "3",
+                "1"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 136,
+            "question": "Avtomatik idarəetmə sistemlərinin və nəzəriyyəsinin neçə inkişaf mərhələsi var?",
+            "options": [
+                "22",
+                "24",
+                "25",
+                "27",
+                "23"
+            ],
+            "correct_answer": "27"
+        },
+        {
+            "index": 137,
+            "question": "Avtomatik tənzimləmə prosesi necə həyata keçirilir?",
+            "options": [
+                "sonsuz zaman ərzində",
+                "diskret zaman ərzində",
+                "əks əlaqə zamanı",
+                "müəyyən zaman ərzində",
+                "birbaşa və ya açıq idarəetmə zamanı"
+            ],
+            "correct_answer": "sonsuz zaman ərzində"
+        },
+        {
+            "index": 138,
+            "question": "Avtomatik tənzimləmədə məqsəd nədir?",
+            "options": [
+                "obyektin çıxış kəmiyyətinin dəqiq olması",
+                "obyektin çıxış kəmiyyətinin müəyyən xəta daxilində sabit və ya zamana görə dəyişən olması",
+                "çıxış kəmiyyətinin siqnala çevrilməsi",
+                "çıxış kəmiyyətinin vahid impulsa çevrilməsi",
+                "obyektin çıxış kəmiyyətinin nisbi olması"
+            ],
+            "correct_answer": "obyektin çıxış kəmiyyətinin müəyyən xəta daxilində sabit və ya zamana görə dəyişən olması"
+        },
+        {
+            "index": 139,
+            "question": "Müxtəlif maşın və aparatların iş rejimlərinin insanın iştirakı olmadan texniki vasitələrin köməyi ilə sabit saxlanılması və ya müəyyən qanun üzrə dəyişdirilməsi necə adlanır? avtomatik tənzimləmə",
+            "options": [
+                "resurs",
+                "obyekt",
+                "avtomatlaşdırma dərəcəsi",
+                "avtomatlaşdırma",
+                "avtomatik tənzimləmə"
+            ],
+            "correct_answer": "avtomatik tənzimləmə"
+        },
+        {
+            "index": 140,
+            "question": "Siqnalların rəqəmli emalı hansı məqsədlə həyata keçirilir?",
+            "options": [
+                "Siqnalın 8-lik say sisteminə çevrilməsi",
+                "Faydalı informasiyanın əldə edilməsi",
+                "Kodlaşdırılması",
+                "Siqnalın uzaq məsafəyə ötürülməsi",
+                "Siqnalın ölçülməsi"
+            ],
+            "correct_answer": "Faydalı informasiyanın əldə edilməsi"
+        },
+        {
+            "index": 141,
+            "question": "Standart tənzimləyicilərə bunlardan hansı aiddir? 1. proporsional 2. inteqrallayıcı 3. proporsional - inteqrallayıcı 4. proporsional-inteqrallayıcı diferensiallayıcı",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4",
+                "1, 3, 4",
+                "1, 2",
+                "1, 2, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 142,
+            "question": "Struktur sintez mərhələsi necə baş verir?",
+            "options": [
+                "Faydalı informasiyanın əldə edilməsi",
+                "tənzimləmə sisteminin quruluşu müəyyən edilir və tənzimləyicinin tipi seçilir",
+                "Siqnalın ölçülməsi",
+                "Kodlaşdırılması",
+                "Siqnalın 8-lik say sisteminə çevrilməsi"
+            ],
+            "correct_answer": "tənzimləmə sisteminin quruluşu müəyyən edilir və tənzimləyicinin tipi seçilir"
+        },
+        {
+            "index": 143,
+            "question": "Sintezetmə hansı mərhələdən ibarətdir? 1. struktur 2. parametrik 3. mürəkkəb",
+            "options": [
+                "1, 2, 3",
+                "1, 2",
+                "2, 3",
+                "3",
+                "1, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 144,
+            "question": "Rəqəm tənzimləmə sisteminin sintezi haqqında doğru fikir hansıdır?",
+            "options": [
+                "Faydalı informasiyanın əldə edilməsi müxtəlif idarəetmə məsələlərini həll",
+                "edən tənzimləmə sisteminin quruluşunun, tənzimləyici və kompensasiyaedici qurğuların (alqoritmlərin) parametrlərinin təyin edilməsi nəzərdə tutulur",
+                "Siqnalın ölçülməsi",
+                "Kodlaşdırılması",
+                "Siqnalın 8-lik say sisteminə çevrilməsi"
+            ],
+            "correct_answer": "edən tənzimləmə sisteminin quruluşunun, tənzimləyici və kompensasiyaedici qurğuların (alqoritmlərin) parametrlərinin təyin edilməsi nəzərdə tutulur"
+        },
+        {
+            "index": 145,
+            "question": "Tənzimləyicilərin sazlanması üçün Matlabda hansı funksiyasının köməyi ilə obyekti sadələşdirib parametrlərini tapmaq olar?",
+            "options": [
+                "poly (p)",
+                "getfod(.)",
+                "tripuls(.)",
+                "gauspuls(.)",
+                "rectpuls(.)"
+            ],
+            "correct_answer": "getfod(.)"
+        },
+        {
+            "index": 146,
+            "question": "Tənzimləyicilərin emperik sazlama üsullarından biri olan Ziqler-Nikols usulu hansı ldə təklif olunmuşdur?",
+            "options": [
+                "1940",
+                "1942",
+                "1945",
+                "1941",
+                "1952"
+            ],
+            "correct_answer": "1942"
+        },
+        {
+            "index": 147,
+            "question": "Matlabda verilmiş köklərə əsasən polinomu bərpa etmək üçün hansı funksiyasından istifadə olunur?",
+            "options": [
+                "getfod(.)",
+                "poly (p)",
+                "tripuls(.)",
+                "gauspuls(.)",
+                "rectpuls(.)"
+            ],
+            "correct_answer": "poly (p)"
+        },
+        {
+            "index": 148,
+            "question": "Xarakteristik tənliyin məxsusi vektorlarının uzunluğu necə adlanır?",
+            "options": [
+                "monoton",
+                "aperiodik",
+                "rəqs",
+                "moda",
+                "siqnal"
+            ],
+            "correct_answer": "moda"
+        },
+        {
+            "index": 149,
+            "question": "Əsas parametrik sintez üsulları bunlardan hansıdır? 1. Köklər hodoqrafı üsulu. 2. Tezlik xarakteristikaları üsulu. 3. Qütblərin arzuolunan qaydada yerləşdirilməsi (modal idarəetmə). 4. İnteqral göstəriciləri əsasında sintez 5. Lyapunov və Rikkati tənliklərinin həllinə əsaslanan optimal sintez",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4, 5",
+                "1, 3, 4",
+                "2, 3, 4, 5",
+                "4, 5"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5"
+        },
+        {
+            "index": 150,
+            "question": "ATS-ləri dayanıqlı olmaqdan başqa aşağıdakı keyfiyyət göstəricilərindən hansını ödəməlidir? 1. Keçid prosesi başa çatdıqdan sonra tapşırıq siqnalını lazımi dəqiqliklə izləməli. 2. Parametrlərin dəyişməsinə az həssas, yəni robast olmalı. 3. Arzuolunmaz həyacanlandırıcı təsirləri tez bir zamanda kompensasiya (tarazlaşdırma) edə bilməli. 4. Minimal qərarlaşmış (statik) xətaya malik olmalı. 5. Dinamik rejimdə keçid prosesi lazımi ifrat tənzimləməni , tənzimləmə, yeyinləşmə vaxtını və s. ödəməli.",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4, 5",
+                "1, 3, 4",
+                "2, 3, 4, 5",
+                "4, 5"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5"
+        },
+        {
+            "index": 151,
+            "question": "Bu üsullardan hansı Sintez üsullarıdır? 1. Tezlik üsulları. 2.Köklər qodoqrafı üsulu. 3.Etalon (standart) keçid xarakteristikaları üsulu. 4.İnteqral meyarının minimallaşdırılması",
+            "options": [
+                "1, 2, 3",
+                "1, 2, 3, 4",
+                "1, 3, 4",
+                "1, 2",
+                "1, 2, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 152,
+            "question": "Korreksiya gurğuları bunlardan hansıdır? 1.Tənzimləyicilər. 2. Kompensatorlar. 3. Faza sürüşdürücüləri",
+            "options": [
+                "1, 2",
+                "1, 2, 3",
+                "2, 3",
+                "3",
+                "1, 3"
+            ],
+            "correct_answer": "1, 2, 3"
+        },
+        {
+            "index": 153,
+            "question": "Zaman xarakteristikaları h(t) və v(t) Matlabda hansı funksiyalarının köməyi ilə qurulur? 1. step(Wz) 2. inpulse(Wz) 3. pzmap(Wz) 4. iztrans(.)",
+            "options": [
+                "1, 2, 3, 4",
+                "1, 2",
+                "1, 2, 4",
+                "1, 3, 4",
+                "1, 2, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 154,
+            "question": "Xarakteristik tənliyin kökləri içərisində qoşma kompleks köklər olarsa keçid prosesində nə baş verir?",
+            "options": [
+                "monoton",
+                "tezlik",
+                "siqnal",
+                "rəqs",
+                "aperiodik"
+            ],
+            "correct_answer": "rəqs"
+        },
+        {
+            "index": 155,
+            "question": "Dinamik keyfiyyət göstəricilərində köklər mənfi həqiqi köklərdirsə onda keçid prosesi necə olar?",
+            "options": [
+                "rəqs",
+                "monoton",
+                "siqnal",
+                "tezlik",
+                "aperiodik"
+            ],
+            "correct_answer": "monoton"
+        },
+        {
+            "index": 156,
+            "question": "Keçid xarakteristikası əsasında qiymətləndirilən dinamik keyfiyyət göstəriciləri bunlardan hansıdır? 1. Kеçid prosesinin xarakteri 2. Tənzimləmə vaxtıT 3. İfrat tənzimləmə 4. Yeyinləşmə vaxtı 5. Maksimal qiymətə çatma 6. Rəqslərin məxsusi tezliyi 7. Sönmə dərəcəsi 8. Tənzimləmə intervalına düşən rəqslərin sayı",
+            "options": [
+                "5, 6, 7, 8",
+                "1, 2, 3, 4, 5, 6, 7, 8",
+                "1, 6, 7, 8",
+                "2, 6, 7, 8",
+                "1, 2, 3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+            "index": 157,
+            "question": "АТS-in dinamik keyfiyyət göstəricilərini qiymətləndirmək üçün hansı üsullardan istifadə edilir? 1. Zаман xarakterisikaları üsulu 2. Köklər üsulu 3. Tezlik üsulu 4. İnteqral göstəricilər üsulu",
+            "options": [
+                "1, 2",
+                "1, 2, 3, 4",
+                "1, 4",
+                "2, 3",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2, 3, 4"
+        },
+        {
+            "index": 158,
+            "question": "Optimal idarəetmə nəzəriyyəsində dinamik rejimdə keyfiyyəti xarakterizə etmək üçün bunların hansından istifadə edilir?",
+            "options": [
+                "tezlik keyfiyyət ğöstəriçilərindən",
+                "inteqral göstəricilərdən",
+                "rəqsdən",
+                "tezlikdən",
+                "statik xətadan"
+            ],
+            "correct_answer": "inteqral göstəricilərdən"
+        },
+        {
+            "index": 159,
+            "question": "ATS-də tezlik xarakteristikalarını qiymətləndirmək ücün bunların hansından istifadə edilir?",
+            "options": [
+                "statik xətadan",
+                "tezlik keyfiyyət ğöstəriçilərindən",
+                "rəqsdən",
+                "tezlikdən",
+                "inteqral göstəricisindən"
+            ],
+            "correct_answer": "tezlik keyfiyyət ğöstəriçilərindən"
+        },
+        {
+            "index": 160,
+            "question": "Statik (qərarlaşmış) rejimdə keyfiyyət göstəricisi necə qiymətləndirilir?",
+            "options": [
+                "inteqral göstəricisi ilə",
+                "statik xəta ilə",
+                "rəqs ilə",
+                "tezlik ilə",
+                "tezlik keyfiyyət ğöstəriçisi ilə"
+            ],
+            "correct_answer": "statik xəta ilə"
+        },
+        {
+            "index": 161,
+            "question": "Tənzimləmə sistemlərində keyfiyyət göstəriciləri aşağıdaılardan hansıdır? 1. dinamik rejimi xarakterizə edən keyfiyyət göstəriciləri 2. statik rejimi xarakterizə edən keyfiyyət göstəriciləri 3. sadə rejimi xarakterizə edən keyfiyyət göstəriciləri",
+            "options": [
+                "1, 2, 3",
+                "1, 2",
+                "2, 3",
+                "3",
+                "1, 3"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 162,
+            "question": "Tənzimləmə sistemlərində hansı rejimlər mövcuddur?",
+            "options": [
+                "tənzimləmə obyekti",
+                "dinamik və statik",
+                "tənzimləyici",
+                "tənzimləmə sistemi",
+                "tənzimləmə"
+            ],
+            "correct_answer": "dinamik və statik"
+        },
+        {
+            "index": 163,
+            "question": "Analoq siqnalının qiyməti nə zaman məlum olur?",
+            "options": [
+                "zamanın müəyyən anında",
+                "zamanın istənilən anında",
+                "vahid təkan signalına çevriləndə",
+                "vahid impuls signalına çevriləndə",
+                "qərar qəbul etmə anında"
+            ],
+            "correct_answer": "zamanın istənilən anında"
+        },
+        {
+            "index": 164,
+            "question": "Siqnalları konkret olaraq hansı qrupa ayrmaq olar? 1. Analoq siqnallar. 2. Diskret siqnallar. 3.Rele (sabit) siqnallar 4. Rəqəm siqnalı",
+            "options": [
+                "1, 2, 3, 4",
+                "1, 2",
+                "1, 2, 4",
+                "2, 4",
+                "3, 4"
+            ],
+            "correct_answer": "1, 2"
+        },
+        {
+            "index": 165,
+            "question": "R/A (rəqəm-analoq çevricisi-RAÇ) haqqında doğru fikir hansıdır?",
+            "options": [
+                "emal alqoritmini ikilik say sistemində yerinə yetirir",
+                "rəqəm qurğusunun çıxışında alınan rəqəm kodunu (ani impulsları) insanın başa düşdüyü onluq say sistemində təqdim olunan göstəricilərə çevirir",
+                "signalı enerjiyə çevirir",
+                "vahid impuls signalına çevirir",
+                "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir"
+            ],
+            "correct_answer": "rəqəm qurğusunun çıxışında alınan rəqəm kodunu (ani impulsları) insanın başa düşdüyü onluq say sistemində təqdim olunan göstəricilərə çevirir"
+        },
+        {
+            "index": 166,
+            "question": "Rəqəm qurğusunun vəzifəsi nədən ibarətdir?",
+            "options": [
+                "signalı enerjiyə çevirir",
+                "siqnal hasil edir",
+                "emal alqoritmini ikilik say sistemində yerinə yetirir",
+                "siqnalı dalğaya çevirir",
+                "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir"
+            ],
+            "correct_answer": "emal alqoritmini ikilik say sistemində yerinə yetirir"
+        },
+        {
+            "index": 167,
+            "question": "ARÇ-nin ( analoq rəqəm çeviricisi) vəzifəsini göstərin?",
+            "options": [
+                "siqnal hasil edir",
+                "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir",
+                "signalı enerjiyə çevirir",
+                "vahid impuls signalına çevirir",
+                "siqnalı dalğaya çevirir"
+            ],
+            "correct_answer": "analoq siqnalı ikilik say sistemində olan rəqəm koduna çevirir"
+        },
+        {
+            "index": 168,
+            "question": "Spektral sıxlığın fiziki mənası nədir?",
+            "options": [
+                "Siqnalın dispersiyası",
+                "Siqnalın ğücünün tezlik üzrə paylanması",
+                "Siqnalın riyazi gözləməsi",
+                "Zaman anları arasında əlaqənin gücü",
+                "Siqnalın gücünün zaman üzrə paylanması"
+            ],
+            "correct_answer": "Siqnalın ğücünün tezlik üzrə paylanması"
+        },
+        {
+            "index": 169,
+            "question": "y(k) - 2y(k) = u(k) sonlu-fərq tənliyində başlanğıc şərt hansıdır?",
+            "options": [
+                "y(2) = 1",
+                "y(-1) = 2",
+                "y(0) = 4",
+                "u(0) = 1",
+                "y(1) = 6"
+            ],
+            "correct_answer": "y(-1) = 2"
+        },
+        {
+            "index": 170,
+            "question": "Səkkiz mərtəbəli ARÇ-nin çıxışında neçə 0 və 1 rəqəmi iştirak edir?",
+            "options": [
+                "16",
+                "8",
+                "4",
+                "56",
+                "32"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "index": 171,
+            "question": "Rəqəm kodu hansı rəqəmlərdən ibarətdir? A) 1,2,3 B) 1 C) 0 1 D) 1 8 E) 2,4,8",
+            "options": [
+                "1, 2",
+                "0, 1",
+                "1, 2, 3",
+                "2, 4, 8",
+                "0, 2"
+            ],
+            "correct_answer": "0, 1"
+        },
+        {
+            "index": 172,
+            "question": "Naykvist tezliyi nə deməkdir?",
+            "options": [
+                "Giriş siqnalının max tezliyindən 10 dəfə çox olan kvantlama tezliyi",
+                "Giriş siqnalının max tezliyindən 2 dəfə çox olan kvantlama tezliyi",
+                "Giriş siqnalının max tezliyindən 6 dəfə çox olan kvantlama tezliyi",
+                "Giriş siqnalına bərabər olan kvantlama tezliyi",
+                "Giriş siqnalının max tezliyindən 4 dəfə çox olan kvantlama tezliyi"
+            ],
+            "correct_answer": "Giriş siqnalının max tezliyindən 2 dəfə çox olan kvantlama tezliyi"
+        },
+        {
+            "index": 173,
+            "question": "Siqnalın en-impuls modulyasiyasında impulsların hansı parametri dəyişir?",
+            "options": [
+                "Fazası",
+                "Eni",
+                "Tezliyi",
+                "Dərinliyi",
+                "Amplitudu"
+            ],
+            "correct_answer": "Eni"
+        },
+        {
+            "index": 174,
+            "question": "Siqnalın faza modulyasiyasında impulsların hansı parametri dəyişir?",
+            "options": [
+                "Amplitudu",
+                "Fazası",
+                "Eni",
+                "Dərinliyi",
+                "Tezliyi"
+            ],
+            "correct_answer": "Fazası"
+        },
+        {
+            "index": 175,
+            "question": "Rəqəm siqnal nədir?",
+            "options": [
+                "Zamana görə kvantlanmış siqnal",
+                "Həm zamana, həm də səviyyəyə görə kvantlanmış siqnal",
+                "Hər-hansı bir rəqəmə vurulan siqnal",
+                "Tezliyə görə modullaşdırılmış siqnal",
+                "Səviyyəyə görə kvantlanmış siqnal"
+            ],
+            "correct_answer": "Həm zamana, həm də səviyyəyə görə kvantlanmış siqnal"
+        },
+        {
+            "index": 176,
+            "question": "k taktda ləngimə operatoru hansıdır?",
+            "options": [
+                "e(-TS)",
+                "Z (-k)",
+                "ln e",
+                "T",
+                "e(sT)"
+            ],
+            "correct_answer": "Z (-k)"
+        },
+        {
+            "index": 177,
+            "question": "x = δ(t-T) funksiyasının Laplas təsviri hansıdır?",
+            "options": [
+                "e(sT)",
+                "e(-TS)",
+                "T",
+                "t",
+                "ln e"
+            ],
+            "correct_answer": "e(-TS)"
+        },
+        {
+            "index": 178,
+            "question": "Süzgəc hansı funksiyanı yerinə yetirir?",
+            "options": [
+                "Siqnalı diferensiallayır",
+                "Faydalı siqnalı ayırır",
+                "Qarışığı zəiflədir",
+                "Siqnalları inteqrallayır",
+                "Küyü gücləndirir"
+            ],
+            "correct_answer": "Faydalı siqnalı ayırır"
+        },
+        {
+            "index": 179,
+            "question": "Diskret Laplas çevirməsində çevirməyə keçid hansı əvəzləmənin köməyilə yerinə yetirilir?",
+            "options": [
+                "z = ln e",
+                "z = e(sT)",
+                "z = t",
+                "z = eT",
+                "z = T"
+            ],
+            "correct_answer": "z = e(sT)"
+        },
+        {
+            "index": 180,
+            "question": "Diskret impulslar ardıcıllığı hansı ifadədir?",
+            "options": [
+                "y(k) = 2y(k-1) = x(k)",
+                "x(t) = x(0) δ(t) + x(1) δ(t - 1) +....",
+                "y(k) = y(k-1) + x(k)",
+                "y(k) = x(k) + x(k-1)",
+                "y(k) = 2x(k)"
+            ],
+            "correct_answer": "x(t) = x(0) δ(t) + x(1) δ(t - 1) +...."
+        },
+        {
+            "index": 181,
+            "question": "Aşağıdakı sonlu-fərq tənliyinin tərtibi neçədir?\ty(k) + y(k-1) + 4y(k-2) = 6x(k) - x(k-3)",
+            "options": [
+                "3",
+                "2",
+                "1",
+                "6",
+                "4"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "index": 182,
+            "question": "Sonlu -fərq tənliyi hansıdır?",
+            "options": [
+                "y(k) = 2x(k)",
+                "y(k) = 2y(k-1) = x(k)",
+                "y(k) = x(k) + x(k-1)",
+                "y(k) = 2x(k - 1) + 2x(k - 2)",
+                "y(k) = y(k-1) + x(k)"
+            ],
+            "correct_answer": "y(k) = 2y(k-1) = x(k)"
+        },
+        {
+            "index": 183,
+            "question": "Rekursiv tənlik hansıdır?",
+            "options": [
+                "y(k) = x(k) + x(k-1)",
+                "y(k) = y(k-1) + x(k)",
+                "y(k) = 2x(k - 1)",
+                "y(k) = 2x(k - 1) + 2x(k - 2)",
+                "y(k) = 2x(k)"
+            ],
+            "correct_answer": "y(k) = y(k-1) + x(k)"
+        },
+        {
+            "index": 184,
+            "question": "Diskret x(kT) siqnalında k nədir?",
+            "options": [
+                "Gücləndirmə əmsalı",
+                "Gecikmə vaxtı",
+                "Kvantlama addımı",
+                "Kvantlama nöqtələrinin nömrəsi",
+                "Amplitud"
+            ],
+            "correct_answer": "Kvantlama nöqtələrinin nömrəsi"
+        },
+        {
+            "index": 185,
+            "question": "Diskret siqnalında T nədir?",
+            "options": [
+                "Zaman sabiti",
+                "Kvantlama addımı",
+                "Söndürmə əmsalı",
+                "Spektral sıxlıq",
+                "Gücləndirmə əmsalı"
+            ],
+            "correct_answer": "Kvantlama addımı"
+        },
+        {
+            "index": 186,
+            "question": "Fasiləsiz siqnalının diskret analoqunu hansı əvəzləmənin köməyilə almaq olar?",
+            "options": [
+                "t = A",
+                "t = kT",
+                "t = a",
+                "t = T",
+                "t = sin(k)"
+            ],
+            "correct_answer": "t = kT"
+        },
+        {
+            "index": 187,
+            "question": "Eninə-impuls modulyasiyasında impulsların hansı parametrləri dəyişir?",
+            "options": [
+                "Amplitudu",
+                "Fazası",
+                "Tezliyi",
+                "Eni",
+                "Dərinliyi"
+            ],
+            "correct_answer": "Eni"
+        },
+        {
+            "index": 188,
+            "question": "Zaman üzrə kvantlama addımı dəyişən ola bilərmi?",
+            "options": [
+                "Dəyişən ola bilməz",
+                "Dəyişən ola bilə",
+                "Ləngiyən ola bilməz",
+                "Təsadüfi ola bilər",
+                "Artan ola bilməz"
+            ],
+            "correct_answer": "Dəyişən ola bilə"
+        },
+        {
+            "index": 189,
+            "question": "s(t)= A cos(ω0t+ φ0) harmonik siqnalı verilmişdir. Tezlik modulyasiyası zamanı modullaşdıran ilkin siqnaldan asılı olaraq hansı parametr dəyişdirilir?",
+            "options": [
+                "A",
+                "ω0",
+                "φ",
+                "cos",
+                "t"
+            ],
+            "correct_answer": "ω0"
+        },
+        {
+            "index": 190,
+            "question": "y (k) = x (k) + 0,95 y (k-1), k=0, 5rekursiv süzgəcinin giriş siqnalının x (k) = 0 və daxili vəziyyətinin y (0) = 13 qiymətlərində aşağı tam ədədə qədər yuvarlaqlaşdırmaqla alınan diskret qiymətlər hansılardır?",
+            "options": [
+                "y (k) = { 12, 11, 10, 10, 16 }",
+                "y (k) = { 12, 11, 10, 10, 10 }",
+                "y (k) = { 0, 0, 0, 10, 10 }",
+                "y (k) = { 1, 0, 0, 10, 0 }",
+                "y (k) = { 13, 11, 10, 10, 10 }"
+            ],
+            "correct_answer": "y (k) = { 12, 11, 10, 10, 10 }"
+        },
+        {
+            "index": 191,
+            "question": "Diskret hesablamalarda yuvarlaqlaşma xətaları hansı təzadlarla nəticələnə bilər?",
+            "options": [
+                "Sürüşən rejim",
+                "Hədd tsikli",
+                "Çıxışın sıfra yığılması",
+                "Kvantlama addımının kiçilməsi",
+                "Çıxışın küylənməs"
+            ],
+            "correct_answer": "Hədd tsikli"
+        },
+        {
+            "index": 192,
+            "question": "Dayanıqlı diskret sistemin qütbləri hansı fiqurun daxilində yerləşir?",
+            "options": [
+                "Vahid kvadrat",
+                "Vahid çevrə",
+                "Düzbucaqlı",
+                "Vahid romb",
+                "Bərabəryanlı üçbucaq"
+            ],
+            "correct_answer": "Vahid çevrə"
+        },
+        {
+            "index": 193,
+            "question": "Vahid impulsunun çevirməsi hansı ifadədir?",
+            "options": [
+                "2",
+                "1",
+                "2/Z",
+                "0",
+                "1/Z"
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "index": 194,
+            "question": "Fasiləsiz siqnalın zamana görə minimal kvantlama tezliyi hansı şərti ödəməlidir?",
+            "options": [
+                "Maksimal tezliyə bərabər",
+                "Siqnalın maksimal tezliyindən 5 dəfə çox",
+                "Maksimal tezlikdən 2 dəfə böyük",
+                "Maksimal tezlikdən 10 dəfə çox",
+                "Maksimal tezlikdən 6 dəfə böyük"
+            ],
+            "correct_answer": "Maksimal tezlikdən 2 dəfə böyük"
+        },
+        {
+            "index": 195,
+            "question": "Rəqəm-analoq çeviricisinin (RAÇ) təyinatı nədən ibarətdir?",
+            "options": [
+                "Siqnalı kvantlayır",
+                "Diskret siqnalı hamarlayır",
+                "Siqnalı rəqəm koduna çevirir",
+                "Diskret siqnalı inteqrallayır",
+                "Siqnalı süzgəcləyir"
+            ],
+            "correct_answer": "Diskret siqnalı hamarlayır"
+        },
+        {
+            "index": 196,
+            "question": "On mərtəbəli analoq-rəqəm çeviricisinin çıxış siqnalının maksimum qiyməti neçəyə bərabərdir?",
+            "options": [
+                "1000",
+                "1024",
+                "100",
+                "2048",
+                "256"
+            ],
+            "correct_answer": "1024"
+        },
+        {
+            "index": 197,
+            "question": "Analoq-rəqəm çeviricisinin (ARÇ) təyinatı nədən ibarətdir?",
+            "options": [
+                "Siqnalın inteqrallaşması",
+                "Siqnalı 2-lik say sisteminə çevirir",
+                "Siqnalı 8-lik say sisteminə çevirir",
+                "Siqnalı süzgəcləyir",
+                "Siqnalın diferensiallanması"
+            ],
+            "correct_answer": "Siqnalı 2-lik say sisteminə çevirir"
+        },
+        {
+            "index": 198,
+            "question": "Təsadüfi siqnal hansı xassəyə malikdir?",
+            "options": [
+                "Amplitudu sonsuzluğa bərabərdir",
+                "Gələcək qiymətləri məlum deyil",
+                "Dispersiyanı hesablamaq mümkün deyil",
+                "Tək funksiyadır",
+                "Sahəsi vahidə bərabərdir"
+            ],
+            "correct_answer": "Gələcək qiymətləri məlum deyil"
+        },
+        {
+            "index": 199,
+            "question": "Furye çevirməsinin mahiyyəti nədən ibarətdir?",
+            "options": [
+                "Siqnalı süzgəcləmək",
+                "Siqnalı inteqrallamaq",
+                "Zaman oblastında verilmiş siqnalın təsvirini təyin etmək",
+                "Siqnalın enerjisini hesablamaq",
+                "Zaman oblastında verilmiş siqnalın tezlik xüsusiyyətlərini araşdırmaq"
+            ],
+            "correct_answer": "Zaman oblastında verilmiş siqnalın tezlik xüsusiyyətlərini araşdırmaq"
+        }
+    ]
+}
