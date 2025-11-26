@@ -346,7 +346,7 @@
                 "tk=kT, k=0,1,2,...",
                 "ωN"
             ],
-            "correct_answer": "kT &lt;t&lt;=(k+1)T"
+            "correct_answer": "kT <t<=(k+1)T"
         },
         {
             "index": 30,
@@ -550,7 +550,7 @@
                 "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x&lt;a).",
                 "siqnalın kvantlanmasından sonra"
             ],
-            "correct_answer": "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x&lt;a)."
+            "correct_answer": "yalnız verilmiş intervala düşəbilmə ehtimalı məlum olur P(x<a)."
         },
         {
             "index": 47,
@@ -2390,4 +2390,5 @@
         }
     ]
 }
+
 
